@@ -1,10 +1,10 @@
 .nav-container {
   display: flex;
+  width: 80%;
   align-items: center;
   justify-content: space-between;
-  padding: 0 12vw;
+  background-color: var(--bg-color-light);
   height: 10vh;
-  width: 100%;
   position: fixed;
   top: 0;
   z-index: 10;
