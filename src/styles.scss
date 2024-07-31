@@ -1,1 +1,37 @@
-/* You can add global styles to this file, and also import other style files */
+$bg-color-light: rgba(255, 252, 243, 1);
+$font-color-light: rgba(0, 0, 0, 1);
+$accent-color: rgba(255, 153, 0, 1);
+
+* {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  line-height: 1.15rem;
+  color: $font-color-light;
+  font-family: "Syne";
+}
+
+body {
+  background-color: $bg-color-light;
+}
+
+// ######## Import Fonts ######### //
+
+@font-face {
+  font-family: "Overpass";
+  src: url(./assets/fonts/Overpass/Overpass-VariableFont_wght.ttf)
+    format("woff2");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Overpass";
+  src: url(./assets/fonts/Overpass/Overpass-Italic-VariableFont_wght.ttf)
+    format("woff2");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Syne";
+  src: url(./assets/fonts/Syne/Syne-VariableFont_wght.ttf) format("woff2");
+  font-style: normal;
+}
