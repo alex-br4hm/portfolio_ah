@@ -2,11 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 5vw;
+  padding: 0 12vw;
   height: 10vh;
   width: 100%;
   position: fixed;
   top: 0;
+  z-index: 10;
 }
 
 .logo {
@@ -21,10 +22,26 @@
   gap: 8px;
   user-select: none;
   cursor: pointer;
+  position: relative;
 
   .burger-menu-line {
     background-color: var(--font-color-black);
     width: 40px;
     height: 4px;
+    // position: absolute;
+
+    // &:nth-child(1) {
+    //   display: none;
+    // }
+
+    // &:nth-child(2) {
+    //   top: 50%;
+    //   transform: translateY(0%) rotate(-45deg);
+    // }
+
+    // &:nth-child(3) {
+    //   left: 50%;
+    //   transform: translateX(0%) rotate(45deg);
+    // }
   }
 }

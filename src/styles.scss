@@ -4,7 +4,16 @@
   --accent-color: rgba(255, 153, 0, 1);
   --font_1: "Overpass";
   --font_2: "Syne";
+  --transition: all 150ms ease-in-out;
 }
+
+// Dark-mode
+// --bg-color-light: rgba(0, 0, 0, 1);
+// --font-color-black: rgba(255, 252, 243, 1);
+
+// Light mode
+// --bg-color-light: rgba(255, 252, 243, 1);
+// --font-color-black: rgba(0, 0, 0, 1);
 
 * {
   scroll-behavior: smooth;
@@ -19,6 +28,7 @@
 body {
   background-color: var(--bg-color-light);
   margin: 0;
+  width: 100%;
 }
 
 // ######## Import Fonts ######### //

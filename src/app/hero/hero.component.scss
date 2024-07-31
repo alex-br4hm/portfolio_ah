@@ -3,15 +3,71 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
+  position: relative;
 }
 
 h1 {
   font-family: var(--font_2);
-  font-size: 96px;
-  line-height: 96px;
-  margin-top: 0;
+  font-size: 128px;
+  line-height: 98px;
+  margin-top: 10vw;
+  margin-bottom: 1rem;
   font-weight: 750;
   text-align: center;
+}
+
+.subline-wrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 16px;
+
+  .line {
+    background-color: var(--font-color-black);
+    height: 4px;
+    width: 100%;
+  }
+
+  .subline-name {
+    color: var(--accent-color);
+    margin: 0;
+    font-size: 48px;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+}
+
+.mail-scroll-down-wrapper {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  width: 80%;
+  font-size: 24px;
+  position: absolute;
+  bottom: 15%;
+
+  .mail-adress {
+    cursor: pointer;
+    border-left: 1px solid var(--font-color-black);
+    padding: 8px;
+    transition: var(--transition);
+    &:hover {
+      border-bottom: 1px solid var(--font-color-black);
+      scale: 97%;
+    }
+  }
+
+  .scroll-down-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+
+    .arrow-down {
+      width: 65%;
+      height: 65%;
+    }
+  }
 }
