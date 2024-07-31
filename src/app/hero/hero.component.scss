@@ -1,3 +1,17 @@
 .hero {
-  height: 200vh;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: var(--font_2);
+  font-size: 96px;
+  line-height: 96px;
+  margin-top: 0;
+  font-weight: 750;
+  text-align: center;
 }
