@@ -1,0 +1,30 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5vw;
+  height: 8vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.logo {
+  height: 32px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.burger-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  user-select: none;
+  cursor: pointer;
+
+  .burger-menu-line {
+    background-color: var(--font-color-black);
+    width: 40px;
+    height: 4px;
+  }
+}
