@@ -43,6 +43,13 @@ body {
   flex-direction: column;
 }
 
+h2 {
+  font-family: var(--font_2);
+  font-size: 80px;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
 // ######## Import Fonts ######### //
 
 @font-face {

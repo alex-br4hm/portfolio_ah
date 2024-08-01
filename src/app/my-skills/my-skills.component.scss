@@ -1,0 +1,40 @@
+.arrow-wrapper {
+  display: flex;
+  justify-content: end;
+
+  img {
+    padding-right: 10%;
+    transition: var(--transition);
+    transform: translateY(0px) translateX(0px);
+    opacity: 0;
+  }
+
+  .animated {
+    transform: translateY(50px) translateX(-50px);
+    opacity: 1;
+  }
+}
+
+.to-animate {
+  &:hover {
+    img {
+      animation: moveArrow 0.3s 1 forwards;
+    }
+  }
+}
+
+.skills-wrapper {
+  height: 50vh;
+  background-color: red;
+}
+
+@keyframes moveArrow {
+  from {
+    transform: translateY(0px) translateX(0px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(50px) translateX(-50px);
+    opacity: 1;
+  }
+}
