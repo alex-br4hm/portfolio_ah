@@ -1,0 +1,25 @@
+<div class="headline-subline-container">
+  <div class="headline-subtext-wrapper">
+    <h2>
+      References
+      <p class="portfolio-section-description">
+        I thrive both independently and as part of a team. Here’s what my
+        colleagues have to say about working with me.
+      </p>
+    </h2>
+  </div>
+</div>
+
+<div class="reference-list">
+  @for (reference of references; track reference) {
+  <div class="reference">
+    <div class="referece-head">
+      <img src="./assets/img/quote-icon.svg" alt="" />
+      <div class="evaluator">{{ reference.evaluator }}</div>
+      <div class="evaluator-position">{{ reference.evalatorPosition }}</div>
+      <p class="reference-text">{{ reference.reference }}</p>
+    </div>
+  </div>
+
+  }
+</div>

@@ -48,6 +48,12 @@ h2 {
   font-size: 80px;
   font-weight: 700;
   margin-bottom: 2rem;
+  color: var(--font-color-black);
+  transition: var(--transition);
+
+  &:hover {
+    color: var(--accent-color);
+  }
 }
 
 // ######## Import Fonts ######### //

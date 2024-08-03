@@ -8,6 +8,7 @@ import { MySkillsComponent } from './my-skills/my-skills.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { AnimateArrowComponent } from './animate-arrow/animate-arrow.component';
 import { OtherAnimateArrowComponent } from './other-animate-arrow/animate-arrow.component';
+import { ReferencesComponent } from './references/references.component';
 
 @Component({
   selector: 'app-root',
@@ -21,6 +22,7 @@ import { OtherAnimateArrowComponent } from './other-animate-arrow/animate-arrow.
     PortfolioComponent,
     AnimateArrowComponent,
     OtherAnimateArrowComponent,
+    ReferencesComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',

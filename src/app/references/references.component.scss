@@ -1,0 +1,52 @@
+.headline-subline-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.headline-subtext-wrapper {
+  width: 50%;
+  h2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    .portfolio-section-description {
+      width: 100%;
+      font-size: 24px;
+      text-align: center;
+    }
+  }
+}
+
+.reference-list {
+  display: flex;
+  gap: 1rem;
+
+  .reference {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    line-height: 1.6rem;
+    padding: 2%;
+    border: 3px solid var(--font-color-black);
+    width: 33%;
+  }
+}
+
+.referece-head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+
+  img {
+    margin-bottom: 1rem;
+  }
+  .evaluator {
+    font-family: var(--font_2);
+    font-weight: bold;
+    font-size: 24px;
+  }
+}
