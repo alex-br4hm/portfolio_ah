@@ -1,4 +1,4 @@
-import { Component, ElementRef, ViewChild, AfterViewInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 type TechIcon = {
   imgSrc: string;
@@ -12,10 +12,7 @@ type TechIcon = {
   templateUrl: './my-skills.component.html',
   styleUrl: './my-skills.component.scss',
 })
-export class MySkillsComponent implements AfterViewInit {
-  @ViewChild('arrowImg') arrowImg!: ElementRef;
-  @ViewChild('arrowWrapper') arrowWrapper!: ElementRef;
-
+export class MySkillsComponent {
   techImgs: TechIcon[] = [
     { imgSrc: './assets/img/tech-icons/angular-icon.svg', techName: 'Angular' },
     { imgSrc: './assets/img/tech-icons/ts-icon.svg', techName: 'TypeScript' },
@@ -34,14 +31,4 @@ export class MySkillsComponent implements AfterViewInit {
     },
     { imgSrc: './assets/img/tech-icons/scrum-icon.svg', techName: 'Scrum' },
   ];
-
-  ngAfterViewInit() {
-    const imgElement = this.arrowImg.nativeElement;
-    const wrapperElement = this.arrowWrapper.nativeElement;
-
-    this.arrowImg.nativeElement.addEventListener('animationend', () => {
-      wrapperElement.classList.remove('to-animate');
-      imgElement.classList.add('animated');
-    });
-  }
 }
