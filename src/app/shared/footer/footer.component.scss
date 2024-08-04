@@ -1,7 +1,7 @@
 footer {
   display: flex;
   justify-content: space-between;
-  padding: 3% 10%;
+  padding: 3% 10% 1% 10%;
   background-color: rgb(13, 16, 23);
 }
 
@@ -17,7 +17,7 @@ footer {
 .social-media-wrapper {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 32px;
   align-items: end;
 
   a {
@@ -31,7 +31,6 @@ footer {
       position: absolute;
       bottom: -4px;
       opacity: 0;
-
       left: 20%; /* Start 25% vom linken Rand */
       width: 80%; /* 75% der Breite des Elements */
       height: 1px; /* Höhe des Borders */

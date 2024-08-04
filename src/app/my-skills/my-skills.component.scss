@@ -74,9 +74,33 @@ img {
   }
 
   img {
-    transition: var(--transition);
+    transition: all 500ms ease-in-out;
     &:hover {
-      transform: skew(5deg, 10deg);
+      transform: rotate(-120deg);
     }
+  }
+}
+
+@keyframes rotateWithStops {
+  0% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(-120deg);
+  }
+  40% {
+    transform: rotate(-120deg);
+  }
+  60% {
+    transform: rotate(-240deg);
+  }
+  80% {
+    transform: rotate(-240deg);
+  }
+  90% {
+    transform: rotate(-360deg);
+  }
+  100% {
+    transform: rotate(360deg);
   }
 }
