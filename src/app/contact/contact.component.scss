@@ -1,0 +1,145 @@
+.contact-section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+svg {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+
+h2 {
+  width: 80%;
+  margin-top: 20vh;
+  color: var(--font-color);
+
+  &:hover {
+    color: var(--accent-color);
+  }
+}
+
+.contact-content-wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50vh;
+  h3 {
+    font-size: 32px;
+    color: var(--accent-color);
+    margin-bottom: 0;
+    text-align: center;
+  }
+  p {
+    font-size: 24px;
+    color: var(--font-color);
+    text-align: center;
+  }
+  span {
+    color: var(--font-color);
+  }
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 80%;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 60%;
+  padding: 12px;
+  border: none;
+  border-bottom: 1px solid var(--font-color);
+  color: var(--font-color);
+  outline: transparent;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: transparent !important;
+  font-size: 18px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+select:focus,
+textarea:focus {
+  border: 1px solid var(--font-color);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+  -webkit-text-fill-color: var(--font-color) !important;
+}
+
+textarea {
+  height: 20vh;
+  resize: none;
+}
+
+input[type="submit"] {
+  background-color: transparent;
+  color: white;
+  padding: 2% 5%;
+  font-size: 24px;
+  border: 3px solid rgba(187, 187, 187, 1);
+  cursor: pointer;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
+  transition: var(--transition);
+}
+
+input[type="submit"]:hover {
+  padding: 2% 7%;
+}
+
+.checkbox-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 1vh;
+  label {
+    color: var(--font-color);
+  }
+}
+
+[type="checkbox"] {
+  position: relative;
+  left: 15px;
+  top: -4px;
+  z-index: 0;
+  -webkit-appearance: none;
+}
+[type="checkbox"] + label {
+  position: absolute;
+}
+[type="checkbox"] + label::before {
+  width: 15px;
+  height: 15px;
+  border-radius: 1px;
+  border: 2px solid var(--font-color);
+  background-color: var(--font-color);
+  display: block;
+  content: "";
+  float: left;
+  margin-right: 5px;
+  z-index: 5;
+  position: relative;
+}
+
+[type="checkbox"]:checked + label::before {
+  box-shadow: inset 0px 0px 0px 3px var(--font-color);
+  background-color: var(--bg-color);
+}

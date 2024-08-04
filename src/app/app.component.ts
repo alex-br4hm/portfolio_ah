@@ -9,6 +9,7 @@ import { PortfolioComponent } from './portfolio/portfolio.component';
 import { AnimateArrowComponent } from './animate-arrow/animate-arrow.component';
 import { OtherAnimateArrowComponent } from './other-animate-arrow/animate-arrow.component';
 import { ReferencesComponent } from './references/references.component';
+import { ContactComponent } from './contact/contact.component';
 
 @Component({
   selector: 'app-root',
@@ -23,6 +24,7 @@ import { ReferencesComponent } from './references/references.component';
     AnimateArrowComponent,
     OtherAnimateArrowComponent,
     ReferencesComponent,
+    ContactComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',

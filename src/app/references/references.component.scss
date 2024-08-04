@@ -21,6 +21,8 @@
 
 .reference-list {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1rem;
 
   .reference {
@@ -30,8 +32,9 @@
     font-size: 18px;
     line-height: 1.6rem;
     padding: 2%;
-    border: 3px solid var(--font-color-black);
-    width: 33%;
+    border: 3px solid var(--font-color);
+    width: 30%;
+    min-width: 400px;
   }
 }
 

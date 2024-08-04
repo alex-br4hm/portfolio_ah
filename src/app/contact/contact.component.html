@@ -1,0 +1,76 @@
+<section class="contact-section">
+  <svg
+    class="contact-bg"
+    width="100%"
+    height="100%"
+    viewBox="0 0 100 100"
+    preserveAspectRatio="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <polygon points="0,0 100,20 100,100 0,100" fill="rgb(13, 16, 23)" />
+  </svg>
+  <h2>Say Hi!</h2>
+  <div class="contact-content-wrapper">
+    <h3>Want to discuss a new project?</h3>
+    <p>Say hello! let's discuss your ideas and make it happen</p>
+
+    <form
+      class="contact-form"
+      (ngSubmit)="onSubmit(contactForm)"
+      #contactForm="ngForm"
+    >
+      <label for="name"></label>
+      <input
+        [(ngModel)]="contactData.name"
+        type="text"
+        id="name"
+        name="name"
+        placeholder="Your name.."
+        required
+        autocomplete="off"
+      />
+
+      <label for="email"></label>
+      <input
+        [(ngModel)]="contactData.email"
+        type="email"
+        id="email"
+        name="email"
+        placeholder="Your e-mail.."
+        required
+        autocomplete="off"
+        pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}"
+      />
+
+      <label for="message"></label>
+      <textarea
+        #message="ngModel"
+        [(ngModel)]="contactData.message"
+        id="message"
+        name="message"
+        placeholder="Your message.."
+        required
+        autocomplete="off"
+      >
+      </textarea>
+      @if (!message.valid && message.touched && !message.disabled) {
+      <span>Please enter a message.</span>
+      }
+
+      <div class="checkbox-wrapper">
+        <input
+          type="checkbox"
+          name="privacyPolicyCheck"
+          id="privacyPolicyCheck"
+        />
+        <label for="privacyPolicyCheck"
+          >I've read the
+          <span style="color: var(--accent-color)">privacy policy</span> and
+          agree to the processing of my data as outlined.</label
+        >
+      </div>
+
+      <input type="submit" value="Send message" />
+    </form>
+  </div>
+</section>
