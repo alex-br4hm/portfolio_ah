@@ -50,12 +50,30 @@ h1 {
 
   .mail-adress {
     cursor: pointer;
-    border-left: 1px solid var(--font-color);
     padding: 8px;
-    transition: var(--transition);
+    transition: 0.5s cubic-bezier(0.84, -1.3, 0.3, 1.5);
+
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: -4px;
+      opacity: 1;
+      left: 0%;
+      right: 50%; /* Start 25% vom linken Rand */
+      width: 5%; /* 75% der Breite des Elements */
+      height: 1px; /* Höhe des Borders */
+      background-color: var(--accent-color); /* Farbe des Borders */
+      animation: grow 0.5s linear 1;
+      transition: 0.5s cubic-bezier(0.84, -1.3, 0.3, 1.5);
+    }
+
     &:hover {
-      border-bottom: 1px solid var(--font-color);
-      scale: 97%;
+      &::after {
+        content: "";
+
+        left: 15%;
+        width: 7%; /* 75% der Breite des Elements */
+      }
     }
   }
 

@@ -19,22 +19,55 @@
   }
 }
 
+.reference-list::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.reference-list::-webkit-scrollbar-thumb {
+  background-color: var(--font-color);
+}
+
 .reference-list {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
+  transition: all 200ms ease-in-out;
+  height: auto;
+  overflow: hidden;
 
+  .evaluator {
+    text-align: center;
+  }
   .reference {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 18px;
+    position: relative;
+    font-size: 2vw;
     line-height: 1.6rem;
     padding: 2%;
     border: 3px solid var(--font-color);
-    width: 30%;
-    min-width: 400px;
+    width: 25%;
+    height: 300px;
+    min-width: 200px;
+    transition: 0.5s cubic-bezier(0.84, -1.38, 0.3, 1.54);
+    background-color: var(--bg-color);
+    overflow: hidden;
+
+    .reference-text {
+      opacity: 0;
+      transition: 0.5s cubic-bezier(0.84, -1.38, 0.3, 1.54);
+    }
+
+    &:hover {
+      width: 30%;
+      height: fit-content;
+
+      .reference-text {
+        opacity: 1;
+      }
+    }
   }
 }
 

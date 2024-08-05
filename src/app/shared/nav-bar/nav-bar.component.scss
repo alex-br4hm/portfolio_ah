@@ -21,7 +21,7 @@ img {
   user-select: none;
   cursor: pointer;
   position: absolute;
-  right: 10%;
+  right: 10vw;
   padding: 1%;
 
   .burger-menu-line {
@@ -33,12 +33,11 @@ img {
 }
 
 .burger-menu-crossed {
-  right: 2%;
-  padding: 10%;
+  right: 10vw;
+  padding: 1%;
 
   .line-crossed {
     position: absolute;
-
     &:nth-child(1) {
       top: 50%;
       transform: translateY(0%) rotate(-45deg);
