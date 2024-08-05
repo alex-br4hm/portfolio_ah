@@ -68,9 +68,10 @@ footer {
     cursor: pointer;
     user-select: none;
     transition: var(--transition);
+    transition-duration: 0.8s;
 
     &:hover {
-      transform: translateY(-7px);
+      transform: rotate(40deg);
     }
   }
 }
