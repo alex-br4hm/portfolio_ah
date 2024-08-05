@@ -2,7 +2,8 @@ footer {
   display: flex;
   justify-content: space-between;
   padding: 3% 10% 1% 10%;
-  background-color: rgb(13, 16, 23);
+  background-color: rgb(1, 4, 9);
+  margin-top: -1px;
 }
 
 .logo-copyright-wrapper {
@@ -26,6 +27,7 @@ footer {
     transform: translateX(-10px);
     opacity: 0.8;
     position: relative;
+    font-size: 16px;
     &::after {
       content: "";
       position: absolute;

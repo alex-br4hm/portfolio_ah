@@ -1,23 +1,25 @@
-<div class="headline-wrapper"><h2>My skills</h2></div>
-<div class="skills-wrapper">
-  <div class="tech-wrapper">
-    @for (imgSrc of techImgs; track $index) {
-    <div class="single-tech-wrapper">
-      <img class="icon" src="{{ techImgs[$index].imgSrc }}" alt="" />
-      <span>{{ techImgs[$index].techName }}</span>
+<section id="skills">
+  <div class="headline-wrapper"><h2>My skills</h2></div>
+  <div class="skills-wrapper">
+    <div class="tech-wrapper">
+      @for (imgSrc of techImgs; track $index) {
+      <div class="single-tech-wrapper">
+        <img class="icon" src="{{ techImgs[$index].imgSrc }}" alt="" />
+        <span>{{ techImgs[$index].techName }}</span>
+      </div>
+      }
     </div>
-    }
-  </div>
 
-  <div class="ready-to-learn-wrapper">
-    <img
-      class="icon icon-learn"
-      src="./assets/img/tech-icons/learn-icon.svg"
-      alt=""
-    />
-    <span
-      >Don't see the skill you need? <a href="">Contact me</a> I'm always ready
-      to learn!</span
-    >
+    <div class="ready-to-learn-wrapper">
+      <img
+        class="icon icon-learn"
+        src="./assets/img/tech-icons/learn-icon.svg"
+        alt=""
+      />
+      <span
+        >Don't see the skill you need? <a href="">Contact me</a> I'm always
+        ready to learn!</span
+      >
+    </div>
   </div>
-</div>
+</section>
