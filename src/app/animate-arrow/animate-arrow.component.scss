@@ -5,8 +5,8 @@
   img {
     padding-right: 10%;
     transition: var(--transition);
-    transform: translateY(0px) translateX(0px);
-    opacity: 0;
+
+    opacity: 1;
   }
 
   .animated {
@@ -23,13 +23,13 @@
   }
 }
 
-@keyframes moveArrow {
-  from {
-    transform: translateY(0px) translateX(0px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(50px) translateX(-50px);
-    opacity: 1;
-  }
-}
+// @keyframes moveArrow {
+//   from {
+//     transform: translateY(0px) translateX(0px);
+//     opacity: 0;
+//   }
+//   to {
+//     transform: translateY(50px) translateX(-50px);
+//     opacity: 1;
+//   }
+// }

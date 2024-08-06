@@ -37,15 +37,15 @@
   &:nth-child(even) {
     flex-direction: row-reverse;
     .project-infos {
-      translate: 500px;
       padding-left: 0;
+      transition: var(--transition);
     }
   }
 
   &:hover {
     filter: grayscale(0%);
     .project-infos {
-      translate: 0;
+      // translate: 0;
       opacity: 1;
     }
   }
@@ -63,8 +63,8 @@
   padding: 3% 8%;
   font-size: 20px;
   transition: var(--transition);
-  opacity: 0;
-  translate: -500px;
+  opacity: 1;
+
   // filter: grayscale(0%) !important;
   h2 {
     font-size: 40px;
