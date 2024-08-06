@@ -61,6 +61,7 @@ h2 {
   margin-bottom: 2rem;
   color: var(--font-color);
   transition: var(--transition);
+  transition-duration: 150ms;
 
   &:hover {
     color: var(--accent-color);

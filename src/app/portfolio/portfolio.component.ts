@@ -1,9 +1,10 @@
+import { NgClass } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-portfolio',
   standalone: true,
-  imports: [],
+  imports: [NgClass],
   templateUrl: './portfolio.component.html',
   styleUrl: './portfolio.component.scss',
 })
@@ -42,4 +43,8 @@ export class PortfolioComponent {
       gitLink: '',
     },
   ];
+
+  isEven(index: number): boolean {
+    return index % 2 != 0;
+  }
 }

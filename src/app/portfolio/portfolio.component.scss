@@ -31,14 +31,14 @@
   display: flex;
   align-items: start;
   padding: 3% 0;
-  transition: var(--transition);
+  transition: 150ms ease-in-out;
   filter: grayscale(50%);
 
   &:nth-child(even) {
     flex-direction: row-reverse;
     .project-infos {
       padding-left: 0;
-      transition: var(--transition);
+      transition: 150ms ease-in-out;
     }
   }
 
@@ -48,15 +48,45 @@
       // translate: 0;
       opacity: 1;
     }
+    .image-container::before {
+      opacity: 1;
+      transform: translate(5%, 5%);
+    }
+    .right-side-project::before {
+      transform: translate(-5%, 5%);
+    }
   }
+}
 
-  img {
-    width: 60%;
-    object-fit: cover;
-    position: relative;
-    z-index: 10;
-    cursor: pointer;
-  }
+.image-container {
+  position: relative;
+}
+
+.image-container::before,
+.right-side-project::before {
+  content: "";
+  position: absolute;
+  top: -5px; /* Höhe des Rahmens, um den Rahmen um das Bild herum zu positionieren */
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  transform: translate(10%, 10%);
+  opacity: 0;
+  border: 5px solid white; /* Rahmen um das Bild */
+  box-sizing: border-box; /* Stellt sicher, dass der Rahmen zur Gesamtgröße des Containers zählt */
+  z-index: 11; /* Positioniert das Pseudo-Element hinter dem Bild */
+  transition: var(--transition);
+}
+
+.right-side-project::before {
+  transform: translate(10%, -10%);
+}
+
+img {
+  width: 100%; /* Macht das Bild 100% der Breite des Containers */
+  object-fit: cover;
+  position: relative;
+  z-index: 10; /* Positioniert das Bild über dem Pseudo-Element */
 }
 
 .project-infos {

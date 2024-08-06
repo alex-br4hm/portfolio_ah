@@ -12,24 +12,24 @@
   </div>
 
   <div class="projects-list-wrapper">
-    @for (project of projects; track project) {
-    <div class="single-project">
-      <img
-        src="{{ project.imgSrc }}"
-        alt=""
-        data-aos="flip-down"
-        data-aos-delay="300"
-        data-aos-duration="1000"
-        data-aos-offset="-1500px"
-      />
+    @for (project of projects; track $index) {
 
+    <div class="single-project">
       <div
-        class="project-infos"
-        data-aos="flip-up"
-        data-aos-delay="500ms"
-        data-aos-duration="1000"
-        data-aos-offset="1500px"
+        class="image-container"
+        [ngClass]="{ 'right-side-project': isEven($index) }"
       >
+        <img
+          src="{{ project.imgSrc }}"
+          alt=""
+          data-aos="flip-down"
+          data-aos-delay="300"
+          data-aos-duration="1000"
+          data-aos-offset="-1500px"
+        />
+      </div>
+
+      <div class="project-infos aos-item" data-aos="flip-up">
         <h2>{{ project.title }}</h2>
         <div class="technologies">
           @for (technologie of project.technologies; track technologie) {
