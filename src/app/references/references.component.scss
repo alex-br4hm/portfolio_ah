@@ -35,7 +35,7 @@
   transition: all 200ms ease-in-out;
   height: auto;
   overflow: hidden;
-
+  transition: var(--transition);
   .evaluator {
     text-align: center;
   }
@@ -51,7 +51,7 @@
     width: 25%;
     height: 300px;
     min-width: 200px;
-    transition: 0.5s cubic-bezier(0.84, -1.38, 0.3, 1.54);
+    transition: 0.5s cubic-bezier(0.84, -1.08, 0.3, 1.24);
     background-color: var(--bg-color);
     overflow: hidden;
 
@@ -62,7 +62,7 @@
 
     &:hover {
       width: 30%;
-      height: fit-content;
+      height: 100%;
 
       .reference-text {
         opacity: 1;
