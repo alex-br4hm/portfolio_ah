@@ -17,6 +17,7 @@ export class PortfolioComponent {
         'Task manager inspired by the Kanban System. Create and organize tasks using drag and drop functions, assign users and categories.',
       technologies: ['JavaScript', 'HTML', 'CSS', 'Firebase'],
       gitLink: '',
+      demoLink: 'https://pokedex.haehnlein-alexander.org/',
     },
     {
       imgSrc: './assets/img/sharkie.png',

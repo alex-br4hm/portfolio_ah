@@ -37,7 +37,10 @@
           }
         </div>
         <p class="description">{{ project.description }}</p>
-        <div class="link-btns"><a href="">Github</a> <a href="">Demo</a></div>
+        <div class="link-btns">
+          <a href="">Github</a>
+          <a href="{{ project.demoLink }}" target="_blank">Demo</a>
+        </div>
       </div>
     </div>
     }
