@@ -36,9 +36,11 @@
   height: auto;
   overflow: hidden;
   transition: var(--transition);
+  min-height: 80vh;
   .evaluator {
     text-align: center;
   }
+
   .reference {
     display: flex;
     flex-direction: column;
@@ -67,6 +69,14 @@
       .reference-text {
         opacity: 1;
       }
+    }
+  }
+
+  .hovered-class {
+    width: 30%;
+    height: 100%;
+    .reference-text {
+      opacity: 1;
     }
   }
 }

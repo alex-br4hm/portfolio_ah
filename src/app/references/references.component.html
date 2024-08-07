@@ -11,8 +11,12 @@
 </div>
 
 <div class="reference-list">
-  @for (reference of references; track reference) {
-  <div class="reference">
+  @for (reference of references; track $index) {
+  <div
+    class="reference"
+    (mouseenter)="onMouseEnter($index)"
+    [ngClass]="{ 'hovered-class': reference.isHovered }"
+  >
     <div class="referece-head">
       <img src="./assets/img/quote-icon.svg" alt="" class="icon" />
       <div class="evaluator">{{ reference.evaluator }}</div>
