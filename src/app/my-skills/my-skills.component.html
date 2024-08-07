@@ -3,14 +3,14 @@
   <div class="skills-wrapper">
     <div class="tech-wrapper">
       @for (imgSrc of techImgs; track $index) {
-      <div class="single-tech-wrapper">
+      <div class="single-tech-wrapper" data-aos="zoom-in-right">
         <img class="icon" src="{{ techImgs[$index].imgSrc }}" alt="" />
         <span>{{ techImgs[$index].techName }}</span>
       </div>
       }
     </div>
 
-    <div class="ready-to-learn-wrapper">
+    <div class="ready-to-learn-wrapper" data-aos="zoom-in-left">
       <img
         class="icon icon-learn"
         src="./assets/img/tech-icons/learn-icon.svg"
