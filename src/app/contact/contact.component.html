@@ -31,7 +31,7 @@
         autocomplete="off"
         (input)="validateFormInput()"
       />
-      @if (!name.valid && name.touched && !name.disabled) {
+      @if (formSubmitted && !name.valid) {
       <div class="contact-input-error">
         <span>Please enter a name.</span>
       </div>
@@ -50,7 +50,7 @@
         pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}"
         (input)="validateEmail(email)"
       />
-      @if (!email.valid && email.touched && !email.disabled) {
+      @if (formSubmitted && !email.valid) {
       <div class="contact-input-error">
         @if (email.value == "") {
         <span>Please enter a mail adresse.</span>
@@ -85,15 +85,17 @@
           id="privacyPolicyCheck"
           (click)="isCheckboxChecked()"
         />
-        <label for="privacyPolicyCheck"
+        <label
+          for="privacyPolicyCheck"
+          [ngClass]="{ 'checkbox-checked': isCheckbox }"
           >&nbsp;I've read the
           <span style="color: var(--accent-color)">privacy policy</span> and
           agree to the processing of my data as outlined.</label
         >
       </div>
       @if (formSubmitted && !isCheckbox) {
-      <div class="contact-input-error">
-        <span>Please acceot the privacy policy.</span>
+      <div class="contact-input-error input-error-privacy-policy">
+        <span class="">Please accept the privacy policy.</span>
       </div>
       }
       <input
@@ -103,4 +105,7 @@
       />
     </form>
   </div>
+  <a href="#" class="arrow-up-container"
+    ><img src="./assets/img/small-arrow-down.svg" class="icon arrow-up" alt=""
+  /></a>
 </section>

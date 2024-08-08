@@ -6,6 +6,31 @@
   transition: var(--transition);
 }
 
+.arrow-up-container {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+}
+
+.arrow-up {
+  rotate: 180deg;
+  width: 5vw;
+
+  animation: bounceDownAndUp 1s infinite;
+}
+
+@keyframes bounceDownAndUp {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
 svg {
   position: absolute;
   top: 0;
@@ -152,7 +177,7 @@ input[type="submit"]:hover {
   position: relative;
 }
 
-[type="checkbox"]:checked + label::before {
+[type="checkbox"]:checked + .checkbox-checked::before {
   box-shadow: inset 0px 0px 0px 2px var(--font-color);
   background-color: var(--bg-color);
 }
@@ -166,4 +191,8 @@ input[type="submit"]:hover {
     color: red;
     font-size: 16px;
   }
+}
+
+.input-error-privacy-policy {
+  margin-top: 8px;
 }

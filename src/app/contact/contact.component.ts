@@ -26,7 +26,7 @@ export class ContactComponent {
   mailTest = true;
 
   post = {
-    endPoint: 'https://deineDomain.de/sendMail.php',
+    endPoint: 'https://haehnlein-alexander.org/sendMail.php',
     body: (payload: any) => JSON.stringify(payload),
     options: {
       headers: {
@@ -66,11 +66,9 @@ export class ContactComponent {
   }
 
   onSubmit(ngForm: NgForm) {
-    // this.validateFormInput();
     this.formSubmitted = true;
 
-    if (this.formSubmitted && this.isValid) {
-      alert('sended');
+    if (ngForm.submitted && this.isValid) {
       this.http
         .post(this.post.endPoint, this.post.body(this.contactData))
         .subscribe({
@@ -80,9 +78,17 @@ export class ContactComponent {
           error: (error) => {
             console.error(error);
           },
-          complete: () => console.info('send post complete'),
+          complete: () => {
+            this.formSubmitted = false;
+            this.isCheckbox = false;
+          },
         });
-    } else if (ngForm.submitted && ngForm.form.valid && this.mailTest) {
+    } else if (
+      ngForm.submitted &&
+      ngForm.form.valid &&
+      this.mailTest &&
+      this.isCheckbox
+    ) {
       this.formSubmitted = false;
       ngForm.resetForm();
     }
