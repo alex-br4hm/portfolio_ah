@@ -112,3 +112,67 @@ section::before {
   src: url(./assets/fonts/Syne/Syne-VariableFont_wght.ttf) format("woff2");
   font-style: normal;
 }
+
+@keyframes sublineNameSlidesIn {
+  0% {
+    transform: translateX(-20%);
+  }
+  80% {
+    transform: translateX(-20%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes showLine {
+  0% {
+    opacity: 0;
+  }
+
+  80% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes goDown {
+  0% {
+    transform: translateY(-300px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+@keyframes bounceUpAndDown {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes lineSlidesIn {
+  0% {
+    transform: translateX(-50%);
+  }
+
+  80% {
+    transform: translateX(-50%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}
