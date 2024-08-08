@@ -14,7 +14,7 @@ svg {
 }
 
 h2 {
-  width: 80%;
+  width: 70%;
   margin-top: 20vh;
   color: var(--font-color);
 
@@ -28,7 +28,7 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-height: 50vh;
+
   h3 {
     font-size: 32px;
     color: var(--accent-color);
@@ -36,7 +36,6 @@ h2 {
     text-align: center;
   }
   p {
-    font-size: 24px;
     color: var(--font-color);
     text-align: center;
   }
@@ -49,7 +48,7 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 8px;
+
   width: 80%;
 }
 
@@ -104,6 +103,16 @@ input[type="submit"] {
   transition: var(--transition);
 }
 
+.submit-btn-not-validated {
+  color: grey !important;
+  border-color: grey !important;
+  opacity: 0.5;
+  cursor: auto !important;
+  &:hover {
+    padding: 2% 5% !important;
+  }
+}
+
 input[type="submit"]:hover {
   padding: 2% 7%;
 }
@@ -112,10 +121,9 @@ input[type="submit"]:hover {
   width: 100%;
   display: flex;
   justify-content: center;
-  margin-top: 1vh;
-  label {
-    color: var(--font-color);
-  }
+  align-items: center;
+  margin-top: 5vh;
+  user-select: none;
 }
 
 [type="checkbox"] {
@@ -127,6 +135,8 @@ input[type="submit"]:hover {
 }
 [type="checkbox"] + label {
   position: absolute;
+  font-size: 16px;
+  padding-left: 4px;
 }
 [type="checkbox"] + label::before {
   width: 15px;
@@ -143,6 +153,17 @@ input[type="submit"]:hover {
 }
 
 [type="checkbox"]:checked + label::before {
-  box-shadow: inset 0px 0px 0px 3px var(--font-color);
+  box-shadow: inset 0px 0px 0px 2px var(--font-color);
   background-color: var(--bg-color);
+}
+
+// Errors
+
+.contact-input-error {
+  width: 60%;
+
+  span {
+    color: red;
+    font-size: 16px;
+  }
 }

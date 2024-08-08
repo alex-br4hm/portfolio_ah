@@ -21,6 +21,7 @@
     >
       <label for="name"></label>
       <input
+        #name="ngModel"
         [(ngModel)]="contactData.name"
         type="text"
         id="name"
@@ -28,10 +29,17 @@
         placeholder="Your name.."
         required
         autocomplete="off"
+        (input)="validateFormInput()"
       />
+      @if (!name.valid && name.touched && !name.disabled) {
+      <div class="contact-input-error">
+        <span>Please enter a name.</span>
+      </div>
+      }
 
       <label for="email"></label>
       <input
+        #email="ngModel"
         [(ngModel)]="contactData.email"
         type="email"
         id="email"
@@ -40,7 +48,17 @@
         required
         autocomplete="off"
         pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}"
+        (input)="validateEmail(email)"
       />
+      @if (!email.valid && email.touched && !email.disabled) {
+      <div class="contact-input-error">
+        @if (email.value == "") {
+        <span>Please enter a mail adresse.</span>
+        } @else {
+        <span>Please enter a valid mail adresse.</span>
+        }
+      </div>
+      }
 
       <label for="message"></label>
       <textarea
@@ -51,10 +69,13 @@
         placeholder="Your message.."
         required
         autocomplete="off"
+        (input)="validateFormInput()"
       >
       </textarea>
-      @if (!message.valid && message.touched && !message.disabled) {
-      <span>Please enter a message.</span>
+      @if (formSubmitted && !message.valid) {
+      <div class="contact-input-error">
+        <span>Please enter a message.</span>
+      </div>
       }
 
       <div class="checkbox-wrapper">
@@ -62,15 +83,24 @@
           type="checkbox"
           name="privacyPolicyCheck"
           id="privacyPolicyCheck"
+          (click)="isCheckboxChecked()"
         />
         <label for="privacyPolicyCheck"
-          >I've read the
+          >&nbsp;I've read the
           <span style="color: var(--accent-color)">privacy policy</span> and
           agree to the processing of my data as outlined.</label
         >
       </div>
-
-      <input type="submit" value="Send message" />
+      @if (formSubmitted && !isCheckbox) {
+      <div class="contact-input-error">
+        <span>Please acceot the privacy policy.</span>
+      </div>
+      }
+      <input
+        type="submit"
+        [ngClass]="{ 'submit-btn-not-validated': !isValid }"
+        value="Send message"
+      />
     </form>
   </div>
 </section>
