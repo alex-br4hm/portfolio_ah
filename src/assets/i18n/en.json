@@ -1,0 +1,32 @@
+{
+    "about_me": "As a frontend developer, I help designers and companies bring their ideas to life. With passion, creativity, and technical expertise, I turn concepts into high-quality products.",
+    "about_me_second": "If you think I could be a good fit for you, feel free to contact me",
+   "about_me_based": "Friedrichroda, Thuringia",
+  "about_me_open": "remote | homeoffice | hybrid",
+
+  "skills_learn_1": "Don't see the skill you need?",
+  "skills_learn_2": "Contact me!",
+  "skills_learn_3": "I'm always ready to learn!",
+
+  "portfolio_subline": "Explore a selection of my work here - Interact with projects to see my skills in action.",
+
+  "references_subline": "I thrive both independently and as part of a team. Here’s what my colleagues have to say about working with me.",
+
+ "contact-headline": "Want to discuss a new project?",
+ "contact-subline": "Say hello! let's discuss your ideas and make it happen",
+
+"contact-error-name": "Please enter a name.",
+"contact-error-mail": "Please enter a mail adresse.",
+"contact-error-mail_2": "Please enter a valid mail adresse.",
+"contact-error-message": "Please enter a message.",
+"contact-error-checkbox": "Please accept the privacy policy.",
+
+ "contact-privacy-policy_1": "I've read the",
+ "contact-privacy-policy_2": "privacy policy",
+ "contact-privacy-policy_3": "and agree to the processing of my data as outlined."
+
+
+ 
+
+  
+}

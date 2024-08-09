@@ -4,8 +4,7 @@
       <h2>
         Portfolio
         <p class="portfolio-section-description">
-          Explore a selection of my work here - Interact with projects to see my
-          skills in action.
+          {{ "portfolio_subline" | translate }}
         </p>
       </h2>
     </div>
@@ -36,7 +35,12 @@
           <span>{{ technologie }} </span><span>|</span>
           }
         </div>
-        <p class="description">{{ project.description }}</p>
+        <p class="description">
+          @if (translate.actualLang == 'en') { {{ project.description }} } @else
+          {
+          {{ project.description_de }}
+          }
+        </p>
         <div class="link-btns">
           <a href="">Github</a>
           <a href="{{ project.demoLink }}" target="_blank">Demo</a>

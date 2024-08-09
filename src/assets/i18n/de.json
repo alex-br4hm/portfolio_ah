@@ -1,0 +1,28 @@
+{
+    "about_me": "Als Frontend developer unterstütze ich Designer und Unternehmen dabei, ihre Ideen Wirklichkeit werden zu lassen. Mit Leidenschaft, Kreativität und technischer Expertise setze ich Ideen in hochwertige Produkte um.",
+    "about_me_second": "Wenn ich zu euch passen könnte, kontaktiere mich gerne.",
+   "about_me_based": "Friedrichroda, Thüringen.",
+   "about_me_open": "remote | homeoffice | hybrid",
+
+   "skills_learn_1": "Du siehst nicht die passende Fähigkeit?",
+"skills_learn_2": "Kontaktiere mich!",
+"skills_learn_3": "Ich bin immer bereit, dazuzulernen!",
+
+"portfolio_subline": "Schau dir meine Projekte an und probiere sie aus.",
+
+"references_subline": "Das sagen meine Teampartner über mich.",
+
+"contact-headline": "Möchtest du über ein neues Projekt sprechen?",
+"contact-subline": "Lass uns deine Ideen besprechen und umsetzen.",
+
+"contact-error-name": "Bitte gib einen Namen ein.",
+"contact-error-mail": "Bitte gib eine E-Mail-Adresse ein.",
+"contact-error-mail_2": "Bitte gib eine gültige E-Mail-Adresse ein.",
+"contact-error-message": "Bitte gib eine Nachricht ein.",
+"contact-error-checkbox": "Bitte akzeptiere die Datenschutzerklärung.",
+
+"contact-privacy-policy_1": "Ich habe die",
+"contact-privacy-policy_2": "Datenschutzerklärung",
+"contact-privacy-policy_3": "gelesen und stimme der Verarbeitung meiner Daten wie beschrieben zu."
+
+}

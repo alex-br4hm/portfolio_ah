@@ -1,35 +1,45 @@
 import { NgClass } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { TranslationService } from '../translation.service';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-references',
   standalone: true,
-  imports: [NgClass],
+  imports: [NgClass, TranslateModule],
   templateUrl: './references.component.html',
   styleUrl: './references.component.scss',
 })
 export class ReferencesComponent {
+  translate = inject(TranslationService);
+
   references = [
     {
       isHovered: true,
       evaluator: 'Mailo Mittelstädt',
       evalatorPosition: 'Team Partner',
+      reference_de:
+        'Alex beeindruckt mit seinem umfangreichen Wissen und seiner Expertise, die er gerne teilt. Seine analytischen Fähigkeiten lösen komplexe Probleme schnell, und er unterstützt das Team stets hilfsbereit.',
       reference:
-        'Alex beeindruckt in Gruppenarbeiten durch sein umfangreiches Wissen und seine Expertise, die er stets bereitwillig mit dem Team teilt. Seine analytischen Fähigkeiten und präzisen Beiträge sorgen dafür, dass komplexe Probleme schnell und effektiv gelöst werden. Darüber hinaus ist Alex immer hilfsbereit und unterstützt seine Teammitglieder dabei, ihr Verständnis zu vertiefen und gemeinsam beste Ergebnisse zu erzielen.  ',
+        'Alex impresses with his extensive knowledge and expertise, which he gladly shares. His analytical skills solve complex problems quickly, and he is always helpful to the team.',
     },
     {
       isHovered: false,
       evaluator: 'Joel Sygulla',
       evalatorPosition: 'Team Partner',
+      reference_de:
+        'Alexander war eine große Bereicherung für unser Join-Projekt. Seine Fachkenntnisse und klare Kommunikation haben das Team sehr unterstützt. Es war eine Freude, mit ihm zu arbeiten.',
       reference:
-        'Es war eine große Bereicherung, Alexander bei unserem Projekt Join als Projektpartner zu haben. Er konnte durch seine hervorragenden Fachkenntnisse viel zum Team beitragen und uns Kollegen gut unterstützen. Ich habe einiges von ihm gelernt und seine klaren und effektiven Kommunikationsfähigkeiten haben die Zusammenarbeit im Team erheblich verbessert. Es hat Spaß gemacht, mit ihm zusammenzuarbeiten, und ich kann ihn ohne Zweifel weiterempfehlen.',
+        'Alexander was a great asset to our Join project. His expertise and clear communication significantly supported the team. It was a pleasure working with him.',
     },
     {
       isHovered: false,
       evaluator: 'Jonas Mahlburg',
       evalatorPosition: 'Team Partner',
+      reference_de:
+        'Die Zusammenarbeit mit Alexander war sehr produktiv. Er hat tiefes Fachwissen und ist schnell im Einarbeiten in neuen Code. Er ist ein hervorragender Teamplayer.',
       reference:
-        'Mit Alexander in einem Team zusammen arbeiten zu dürfen war eine gute produktive Erfahrung. Alexander hat ein sehr gutes Wissen, über die Materie, konnte sich auch schnell in anderen Code einarbeiten und verstehen und ist ein prima Teamarbeiter. Über eine weitere Zusammenarbeit wäre ich sehr froh 🙂 ',
+        'Working with Alexander was very productive. He has deep knowledge, quickly adapts to new code, and is an excellent team player.',
     },
   ];
 

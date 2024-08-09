@@ -1,5 +1,12 @@
 <div class="nav-container">
   <img src="./assets/img/logo.svg" alt="" class="logo icon" />
+
+  <div class="language">
+    <span (click)="translate.switchLanguage('de')">DE</span>
+    <br />
+    <span (click)="translate.switchLanguage('en')">EN</span>
+  </div>
+
   <div
     class="burger-menu"
     [ngClass]="{ 'burger-menu-crossed': isOpened }"

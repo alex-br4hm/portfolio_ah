@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { TranslationService } from '../translation.service';
+import { TranslateModule } from '@ngx-translate/core';
 
 type TechIcon = {
   imgSrc: string;
@@ -8,7 +10,7 @@ type TechIcon = {
 @Component({
   selector: 'app-my-skills',
   standalone: true,
-  imports: [],
+  imports: [TranslateModule],
   templateUrl: './my-skills.component.html',
   styleUrl: './my-skills.component.scss',
 })
@@ -31,4 +33,6 @@ export class MySkillsComponent {
     },
     { imgSrc: './assets/img/tech-icons/scrum-icon.svg', techName: 'Scrum' },
   ];
+
+  translate = inject(TranslationService);
 }

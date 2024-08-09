@@ -1,5 +1,6 @@
 import { NgClass } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { TranslationService } from '../../translation.service';
 
 @Component({
   selector: 'app-nav-bar',
@@ -9,6 +10,8 @@ import { Component } from '@angular/core';
   styleUrl: './nav-bar.component.scss',
 })
 export class NavBarComponent {
+  translate = inject(TranslationService);
+
   isOpened = false;
   closingAnimation = false;
 

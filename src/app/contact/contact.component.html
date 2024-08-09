@@ -9,10 +9,10 @@
   >
     <polygon points="0,0 100,20 100,100 0,100" fill="rgb(1, 4, 9)" />
   </svg>
-  <h2>Say Hi!</h2>
+  <h2>Contact</h2>
   <div class="contact-content-wrapper">
-    <h3>Want to discuss a new project?</h3>
-    <p>Say hello! let's discuss your ideas and make it happen</p>
+    <h3>{{ "contact-headline" | translate }}</h3>
+    <p>{{ "contact-subline" | translate }}</p>
 
     <form
       class="contact-form"
@@ -26,14 +26,16 @@
         type="text"
         id="name"
         name="name"
-        placeholder="Your name.."
+        [placeholder]="
+          translate.actualLang == 'en' ? 'Your name..' : 'dein Name..'
+        "
         required
         autocomplete="off"
         (input)="validateFormInput()"
       />
       @if (formSubmitted && !name.valid) {
       <div class="contact-input-error">
-        <span>Please enter a name.</span>
+        <span> {{ "contact-error-name" | translate }}</span>
       </div>
       }
 
@@ -44,7 +46,9 @@
         type="email"
         id="email"
         name="email"
-        placeholder="Your e-mail.."
+        [placeholder]="
+          translate.actualLang == 'en' ? 'Your email..' : 'dein Email..'
+        "
         required
         autocomplete="off"
         pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}"
@@ -53,9 +57,9 @@
       @if (formSubmitted && !email.valid) {
       <div class="contact-input-error">
         @if (email.value == "") {
-        <span>Please enter a mail adresse.</span>
+        <span>{{ "contact-error-mail" | translate }}</span>
         } @else {
-        <span>Please enter a valid mail adresse.</span>
+        <span>{{ "contact-error-mail_2" | translate }}</span>
         }
       </div>
       }
@@ -66,7 +70,9 @@
         [(ngModel)]="contactData.message"
         id="message"
         name="message"
-        placeholder="Your message.."
+        [placeholder]="
+          translate.actualLang == 'en' ? 'Your message..' : 'deine Nachricht..'
+        "
         required
         autocomplete="off"
         (input)="validateFormInput()"
@@ -74,7 +80,7 @@
       </textarea>
       @if (formSubmitted && !message.valid) {
       <div class="contact-input-error">
-        <span>Please enter a message.</span>
+        <span>{{ "contact-error-message" | translate }}</span>
       </div>
       }
 
@@ -88,17 +94,17 @@
         <label
           for="privacyPolicyCheck"
           [ngClass]="{ 'checkbox-checked': isCheckbox }"
-          >&nbsp;I've read the
+          >&nbsp;{{ "contact-privacy-policy_1" | translate }}
 
-          <a href="" style="color: var(--accent-color); font-size: 16px"
-            >privacy policy</a
-          >
-          and agree to the processing of my data as outlined.</label
+          <a href="" style="color: var(--accent-color); font-size: 16px">{{
+            "contact-privacy-policy_2" | translate
+          }}</a>
+          {{ "contact-privacy-policy_3" | translate }}</label
         >
       </div>
       @if (formSubmitted && !isCheckbox) {
       <div class="contact-input-error input-error-privacy-policy">
-        <span class="">Please accept the privacy policy.</span>
+        <span class="">{{ "contact-error-checkbox" | translate }}</span>
       </div>
       }
       <input

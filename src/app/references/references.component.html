@@ -3,8 +3,7 @@
     <h2>
       References
       <p class="portfolio-section-description">
-        I thrive both independently and as part of a team. Here’s what my
-        colleagues have to say about working with me.
+        {{ "references_subline" | translate }}
       </p>
     </h2>
   </div>
@@ -21,7 +20,13 @@
       <img src="./assets/img/quote-icon.svg" alt="" class="icon" />
       <div class="evaluator">{{ reference.evaluator }}</div>
       <div class="evaluator-position">{{ reference.evalatorPosition }}</div>
-      <p class="reference-text">{{ reference.reference }}</p>
+      <p class="reference-text">
+        @if (translate.actualLang == 'en') {
+        {{ reference.reference }}
+        } @else {
+        {{ reference.reference_de }}
+        }
+      </p>
     </div>
   </div>
   }
