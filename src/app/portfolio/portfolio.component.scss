@@ -60,6 +60,8 @@
 
 .image-container {
   position: relative;
+  width: 100%;
+  height: 50vh;
 }
 
 .image-container::before,
@@ -72,6 +74,8 @@
   bottom: -5px;
   transform: translate(10%, 10%);
   opacity: 0;
+  width: 100%;
+  height: 100%;
   border: 5px solid white; /* Rahmen um das Bild */
   box-sizing: border-box; /* Stellt sicher, dass der Rahmen zur Gesamtgröße des Containers zählt */
   z-index: 11; /* Positioniert das Pseudo-Element hinter dem Bild */
@@ -84,6 +88,7 @@
 
 img {
   width: 100%; /* Macht das Bild 100% der Breite des Containers */
+  height: 100%;
   object-fit: cover;
   position: relative;
   z-index: 10; /* Positioniert das Bild über dem Pseudo-Element */

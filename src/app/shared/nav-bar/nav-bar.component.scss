@@ -2,12 +2,35 @@
   display: flex;
   width: 100%;
   align-items: center;
-  justify-content: space-between;
   background-color: var(--bg-color);
   height: 10vh;
   position: fixed;
   top: 0;
   z-index: 10;
+}
+
+.language {
+  margin-left: 5%;
+  display: flex;
+  gap: 12px;
+  cursor: pointer;
+
+  span {
+    opacity: 0.5;
+    transition: 150ms ease-in-out;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  .language-active {
+    border-bottom: 1px solid var(--font-color);
+    opacity: 1;
+    &:hover {
+      opacity: 1;
+      cursor: default;
+    }
+  }
 }
 
 img {
@@ -55,7 +78,7 @@ img {
 }
 
 .burger-menu-crossed {
-  right: 10vw;
+  right: 12vw;
   padding: 1%;
 
   .line-crossed {
@@ -84,7 +107,7 @@ img {
   right: 0;
   z-index: 0;
   background-color: var(--bg-color);
-  height: 90%;
+  height: 90vh;
   transition: var(--transition);
   display: none;
   align-items: center;

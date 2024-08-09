@@ -27,7 +27,7 @@ export class PortfolioComponent {
       demoLink: 'https://pokedex.haehnlein-alexander.org/',
     },
     {
-      imgSrc: './assets/img/sharkie.png',
+      imgSrc: './assets/img/sharkie.svg',
       title: 'Sharkie',
       description:
         'A simple Jump-and-Run game based on an object-oriented approach. Help Sharkie to find coins and poison bottles to fight against the killer whale.',

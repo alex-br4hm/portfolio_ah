@@ -2,9 +2,16 @@
   <img src="./assets/img/logo.svg" alt="" class="logo icon" />
 
   <div class="language">
-    <span (click)="translate.switchLanguage('de')">DE</span>
-    <br />
-    <span (click)="translate.switchLanguage('en')">EN</span>
+    <span
+      [ngClass]="{ 'language-active ': translate.actualLang == 'en' }"
+      (click)="translate.switchLanguage('en')"
+      >EN</span
+    >
+    <span
+      [ngClass]="{ 'language-active ': translate.actualLang == 'de' }"
+      (click)="translate.switchLanguage('de')"
+      >DE</span
+    >
   </div>
 
   <div
