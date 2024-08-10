@@ -196,3 +196,11 @@ input[type="submit"]:hover {
 .input-error-privacy-policy {
   margin-top: 8px;
 }
+
+@media (max-width: 720px) {
+  .checkbox-wrapper {
+    label {
+      width: 90%;
+    }
+  }
+}

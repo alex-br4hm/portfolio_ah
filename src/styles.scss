@@ -56,7 +56,7 @@ body::-webkit-scrollbar-thumb {
 
 h2 {
   font-family: var(--font_2);
-  font-size: 80px;
+  font-size: clamp(2.8rem, 3.5vw + 1rem, 7vw);
   font-weight: 700;
   margin-bottom: 2rem;
   color: var(--font-color);
@@ -73,7 +73,7 @@ h2 {
 }
 
 .logo {
-  height: 56px;
+  height: 7vh;
   user-select: none;
 }
 

@@ -75,3 +75,25 @@ footer {
     }
   }
 }
+
+@media (max-width: 620px) {
+  footer {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    .logo-copyright-wrapper {
+      div {
+        text-align: center;
+      }
+    }
+    .logo {
+      display: none;
+    }
+
+    .social-media-wrapper {
+      align-items: center;
+    }
+  }
+}

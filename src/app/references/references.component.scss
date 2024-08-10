@@ -11,11 +11,12 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    .portfolio-section-description {
-      width: 100%;
-      font-size: 24px;
-      text-align: center;
-    }
+    margin-bottom: 0;
+  }
+  .portfolio-section-description {
+    text-align: center;
+
+    margin-bottom: 5%;
   }
 }
 
@@ -93,5 +94,49 @@
     font-family: var(--font_2);
     font-weight: bold;
     font-size: 24px;
+  }
+}
+
+@media (max-width: 1190px) {
+  .reference-list {
+    flex-wrap: wrap;
+
+    .reference {
+      width: 40%;
+      &:hover {
+        width: 50%;
+      }
+    }
+  }
+}
+
+@media (max-width: 870px) {
+  .headline-subtext-wrapper {
+    width: 80%;
+    margin-bottom: 3%;
+  }
+
+  .reference-list {
+    .reference {
+      padding: 3%;
+      width: 80%;
+      &:hover {
+        width: 80%;
+      }
+    }
+  }
+}
+
+@media (max-width: 520px) {
+  .headline-subtext-wrapper {
+    width: 100%;
+  }
+  .reference-list {
+    .reference {
+      width: 100%;
+      &:hover {
+        width: 100%;
+      }
+    }
   }
 }
