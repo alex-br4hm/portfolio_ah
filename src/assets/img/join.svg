@@ -1,0 +1,842 @@
+<svg viewBox="0 0 1704.3032109129065 898.119132" aria-owns="html1" data-stacking-context="true" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="max-height: 500px" width="1704.3032109129065" height="898.119132">
+    
+    <style>
+        @font-face { font-display: swap; font-family: Inter; font-style: normal; font-weight: 400; src: url("https://alexander-haehnlein.developerakademie.net/join_ftp/assets/fonts/inter-v13-latin-regular.woff2") format("woff2"); }
+@font-face { font-display: swap; font-family: Inter; font-style: normal; font-weight: 700; src: url("https://alexander-haehnlein.developerakademie.net/join_ftp/assets/fonts/inter-v13-latin-700.woff2") format("woff2"); }
+@font-face { font-display: swap; font-family: Inter; font-style: normal; font-weight: 900; src: url("https://alexander-haehnlein.developerakademie.net/join_ftp/assets/fonts/inter-v13-latin-900.woff2") format("woff2"); }
+    </style>
+    <g data-stacking-layer="rootBackgroundAndBorders"/>
+    <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+    <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+    <g data-stacking-layer="nonPositionedFloats"/>
+    <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+    <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+    <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+    <g aria-owns="head1 body1" data-stacking-context="true" data-z-index="auto" id="html1" data-tag="html">
+        <g aria-owns="meta1 meta2 title1 link1 link2 link3 link4 script1 script2 script3 script4 script5 script6 script7 script8" data-stacking-context="true" data-z-index="auto" id="head1" data-tag="head">
+            <g data-stacking-context="true" data-z-index="auto" id="meta1" data-tag="meta"/>
+            <g data-stacking-context="true" data-z-index="auto" id="meta2" data-tag="meta"/>
+            <g data-stacking-context="true" data-z-index="auto" id="title1" data-tag="title"/>
+            <g role="link" data-stacking-context="true" data-z-index="auto" id="link1" data-tag="link"/>
+            <g role="link" data-stacking-context="true" data-z-index="auto" id="link2" data-tag="link"/>
+            <g role="link" data-stacking-context="true" data-z-index="auto" id="link3" data-tag="link"/>
+            <g role="link" data-stacking-context="true" data-z-index="auto" id="link4" data-tag="link"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script1" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script2" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script3" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script4" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script5" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script6" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script7" data-tag="script"/>
+            <g data-stacking-context="true" data-z-index="auto" id="script8" data-tag="script"/>
+        </g>
+        <g aria-owns="div1 div2 board-container1 deepl-input-controller1" role="document" data-stacking-context="true" data-z-index="auto" id="body1" data-tag="body">
+            <g data-stacking-layer="rootBackgroundAndBorders">
+                <rect fill="rgb(246, 247, 249)" y="96" x="0" height="911" width="1920"/>
+            </g>
+            <g aria-owns="header1" data-stacking-context="true" data-z-index="auto" id="div1" data-tag="div">
+                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                    <g aria-owns="span1 header-img-div1 headerNav" role="banner" data-stacking-context="true" data-z-index="100" id="header1" data-tag="header">
+                        <g data-stacking-layer="rootBackgroundAndBorders">
+                            <rect fill="rgb(255, 255, 255)" y="0" x="0" height="96" width="1920"/>
+                        </g>
+                        <g data-stacking-context="true" data-z-index="auto" id="span1" data-tag="span">
+                            <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                <tspan lengthAdjust="spacingAndGlyphs" textLength="318.609375" y="60" x="320" xml:space="preserve">Kanban Project Management Tool</tspan>
+                            </text>
+                        </g>
+                        <g aria-owns="logo-header-mobile1 a1 headerUserIcon" data-stacking-context="true" data-z-index="auto" class="header-img-div" id="header-img-div1" data-tag="div">
+                            <g mask="url(#mask-for-logo-header-mobile11)" aria-label="join logo" role="img" data-stacking-context="true" data-z-index="auto" class="logo-header-mobile" id="logo-header-mobile1" data-tag="img">
+                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                <g data-stacking-layer="nonPositionedFloats"/>
+                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                <mask id="mask-for-logo-header-mobile11">
+                                    <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                </mask>
+                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/join_logo_dark.png" aria-label="join logo" height="0" width="-20" y="0" x="20" xlink:href="data:image/png;base64,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" id="logo-header-mobile1-image"/>
+                            </g>
+                            <a aria-owns="header-info-img1" role="link" data-stacking-context="true" data-z-index="auto" id="a1" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/help.html">
+                                <g mask="url(#mask-for-header-info-img11)" aria-label="question mark" role="img" data-stacking-context="true" data-z-index="auto" class="header-info-img" id="header-info-img1" data-tag="img">
+                                    <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                    <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                    <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                    <g data-stacking-layer="nonPositionedFloats"/>
+                                    <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                    <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                    <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                    <mask id="mask-for-header-info-img11">
+                                        <rect fill="#ffffff" y="32" x="1790.859375" height="28" width="27.140625"/>
+                                    </mask>
+                                    <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/questionmark.png" aria-label="question mark" height="28" width="27.140625" y="32" x="1790.859375" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALNSURBVHgB7VbLkdpAEB1RLn4nOQKTgbURrJyBdeF3ASJYNgKLCBZHgPZA8blgRwDOQERgOQPd+BzA/aDHNTVo9HFt1V7oKmpaTM/0657+CXGnO70zWUWEZ7OZWyqVHs/ns2tZlkOrfbnEsmLiw9PptCV+3Ol0orx35gJAiht08YRYV+SjgACN8gDJBDCfz4ek/JtqLVn6k9aQ/otZDAAd+j1KORDJPXe73fF/A1gsFlDsK4q/7/f78WAwiE1nyFt9AAYoPue3Wq1RYQCwnJYX/oS1nurSyWRil8vlBsWETaBCFRQ/2VqCSPOEZbACF/zmz2i32z2oCvRnYQpI7lnKrVYr+3g8rknGoU8E6UNSTJREMvlSOR38oirHs9DyAuV4FuK3vNWv1WorKed5Hp7MYxmbg1hkAmDre+Dx5jpqWMLriN72Y7vdRjrKN3an06kjZXEWdyTtGQHAEl7jw+EQ6JukbEjvDnf6iqJ/PGJCla9Wq2P2Ava+ZgJAKrGiX0nRDquazWao/ofIZzZCQKp7eArcpd6dBUC6KRQ5iKvjJVvg7iTQqJLMNvS9DwnC0oWRyKDlcumQUkT6JSZSik5kAmDKglxEymXUB2ocFKEbAGTJH2YbaQeR51JGyQITNXiNMwHIApQUMCpxcA3wy2o6SmBvMwHIiCVyUG5FCpFiuD5Ik0FdEdxF6e4f+v5NECJvKf9R7Wzi0Q9808WyulEJ9kwNijKkhyAFkfwNgBsPsGtf+cATW5BEfXG1zK1UKn1hAEnLkD+DQr1AqeFrA4gNg4yTLJMdUfYMU6Aa2zH3ddlALk1Jt0DGiO5+vR1zoAaFAPBFPg8XV2EaLij3X01RD0D1ev2J2KEsaDya+SYdmSOZPuEwbXgAjXlSwmDyWR9UMYhkZUnuoVRc46In8tHbDaUJQFxxzQC88yf8j+qJIZXYDaVkkDYz3ulOOv0F8vS3KkU01TAAAAAASUVORK5CYII=" id="header-info-img1-image"/>
+                                </g>
+                            </a>
+                            <g data-stacking-context="true" data-z-index="auto" class="header-user-icon" id="headerUserIcon" data-tag="div">
+                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                    <rect ry="23" rx="23" stroke-width="3px" stroke="rgb(4, 4, 4)" fill="rgb(255, 255, 255)" y="25" x="1834" height="46" width="46"/>
+                                </g>
+                                <text fill="rgb(41, 171, 226)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(41, 171, 226)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(41, 171, 226)">
+                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="15.21875" y="60" x="1849.390625" xml:space="preserve">G</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g aria-owns="header-links1 header-links2 header-links3" role="navigation" data-stacking-context="true" data-z-index="auto" class="d-none" id="headerNav" data-tag="nav">
+                            <a role="link" data-stacking-context="true" data-z-index="auto" class="header-links" id="header-links1" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/legalNotice.html"/>
+                            <a role="link" data-stacking-context="true" data-z-index="auto" class="header-links" id="header-links2" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/privatePolicy.html"/>
+                            <a role="link" data-stacking-context="true" data-z-index="auto" class="header-links" id="header-links3" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/index.html"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g aria-owns="sitebar-container1" data-stacking-context="true" data-z-index="auto" id="div2" data-tag="div">
+                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                    <g aria-owns="join-logo-sitebar1 all-links-wrapper1" data-stacking-context="true" data-z-index="100" class="sitebar-container" id="sitebar-container1" data-tag="div">
+                        <g data-stacking-layer="rootBackgroundAndBorders">
+                            <rect fill="rgb(42, 54, 71)" y="0" x="0" height="911" width="232"/>
+                        </g>
+                        <g mask="url(#mask-for-join-logo-sitebar11)" aria-label="Join logo" role="img" data-stacking-context="true" data-z-index="auto" class="join-logo-sitebar" id="join-logo-sitebar1" data-tag="img">
+                            <g data-stacking-layer="rootBackgroundAndBorders"/>
+                            <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                            <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                            <g data-stacking-layer="nonPositionedFloats"/>
+                            <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                            <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                            <mask id="mask-for-join-logo-sitebar11">
+                                <rect fill="#ffffff" y="64" x="64" height="122" width="102"/>
+                            </mask>
+                            <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/join_logo.png" aria-label="Join logo" height="122" width="102" y="64" x="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAB6CAYAAABNyyaCAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAU5SURBVHgB7Z1LcttGFEUvFWccZQMpaJhR4hWIWUGsiaeGV2B7BaZWYGUFoqaZWFkBqRWEmaUqA8LZgOm5Xc/9hIYJfiCCEJp9CbxT1QURAEECp/v1By0C6AgiMpIwXCMCJzAoMTGkmBhSTAwpJoYUE0OKiSHFxJBiYkgxMaSYGFJMDCkmhhQTQ4qJIcXEkGJiSDExpJgYUkwMKSaGFBNDiokhxcSQ8gTdYYowzGAYhmEYHWKAFvj5z//nCMBnfLn47/lZLyvfdlplAyQIwHd4coqeYv0YUkwMKSaGFBNDiokhxcSQYmJIMTGkmBhSTAwpJoYUE0OKiSHFxJDSmckYIpK6xQu0z91gMBjhwHRplkzi0hDtkyECFspIMTGkmBhSTAwprVT+IniJEHz/OUNPaUXMv89/GsNoFQtlpJgYUkwMKSaGFBNDiokhxcSQYmJIMTGkmBhSTAwpXRKzQIcwMaRYKCPFxJBiYkgxMaSYGFJMDCkmhhQTQ4qJIcXEkGJiSDExpJgYUkwMKSaGFBNDiokhpUtiEnSILokJ9YuznxCBLon5BWGIMpegS2J+RRgyRKATYkREpYQKZRki0JUSkyIcUUJZK7/tHxtXYvTZAgnaZzEYDH5EBBqXGHcxEk2IjP9xnwRh+AeRaCTGXQyN5xNN7u9niMtbhOO4nsThZIxllZAX56HvkUpYYme6+qiEipP4Ww4Y2iQPpXMJy3E8JkVz0I4T+ejSaxwA9znvJSxTHAOS59CPNU9qLgHDgDv2tYQnBTvSPGxM2jxB/z0mchgSsCOPDxtzyXP5EA3Q97l0JfVL7GO5RWR2djAlb3GN0C7aDM2Q9xMybA57JMiHWHRgcojDD+lfuI5lVDkPipG8In+HfpE5KWeITKUYyWNskMcokvPSiRkjMlvFeCnas0/QLyhKi1I1JPMe/ZOiXIKEjZ9edKVF65RQN52YyeqEMMlHA4bIM27m0sy9L9uyX3GPSEeoZ35dgmWG1/ct1o57f93d+un6wd5Kf9mZGd0+L2R7k/3dln0nftt1aV15jHG0tv+w2KCvT9YMj9BPxkWurkLyFuoYeSnIXLpx6c5vfl0WUJNX8sBY3In/0AR5vdJHMuyoW/z1eeVf3moDwaXUpWHpvTrSnaI+KqVyXLEoMX2t7JWLbXXEGimW1+dNeYN/UkZRV9R9GkdROitLTSHmApEmHUTmclcI8/zul3cVEm/8cij1bhX8hVxmZam5F+M/7DeXpugPl3s8F6ZoGFRJLK9PUI8//HJrqflW+ascl1QOTVs+IDcNH9azqLG+7s21cWn/jVKz0cH0X1gFZegmKiVFM073XF+Jj1JFCNSGxYr0k4o3TZHLuUG3uGwopbhoScX28vp9JnCM/FLFpuUNlbNkfGjTnfVJFxmOnzePeNZY0V85r6jcz/0yK/fmd7FWas7L23ZOX9JhCj+wd6x1T+bSU3cOV2hO8V6VsjIjyPddhv5lkwgz8suVkYfa88p8bjvDcYU3bfk8rdkkrsSH9ql/ed/Ll3zqlEoqhmMyLCv0fY6doa1ML/m997Ec7lbvvkylxthXg3OeV3yerk/W9p/4bdvGykZr+55K6VrqukYP9vGWU/9lhsiLd4L4aF0w2hidbQF/zmeShy5NxZiZlsarLXWLdiI/YFk/KVO/nK0de+GOqyMKw2/r0BI+h6b+4KH+iWgbekE0ZN0+NmQxEWS2f6kkPUNektoWpblwqilE6WDgIP+GIcubQJoSLGfBFOkHrHbSPvilloZZaXk/u2afJumx8hWB3hzc7rghZQAAAABJRU5ErkJggg==" id="join-logo-sitebar1-image"/>
+                        </g>
+                        <g aria-owns="nav-wrapper1 legally-links-wrapper1" data-stacking-context="true" data-z-index="auto" class="all-links-wrapper" id="all-links-wrapper1" data-tag="div">
+                            <g aria-owns="nav-links1 nav-links2 nav-links3 nav-links4" data-stacking-context="true" data-z-index="auto" class="nav-wrapper" id="nav-wrapper1" data-tag="div">
+                                <a aria-owns="img1" role="link" data-stacking-context="true" data-z-index="auto" class="nav-links" id="nav-links1" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/summary.html">
+                                    <g mask="url(#mask-for-img11)" data-stacking-context="true" data-z-index="auto" id="img1" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-img11">
+                                            <rect fill="#ffffff" y="294" x="58" height="31" width="30"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/summary_icon.png" height="31" width="30" y="294" x="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADESURBVHgB7ZbhDYIwEIVfDf8dQTaQDewIbiCjsJFuYN3ADXQEnKC+xjYhQNSLVozel1waerl80ND2AOVDmO6D995ysMjDzhhzHMxSWvn82OQrOu51HFvGBTIWD2pT3jIcel/cxLdyEMKafaxtns3PMBEqVvHviYuRuTn3W4kJxBXjhMx81VIfGDVkbHFbqZfE4PV1hgD+Ey2E6D5WsYrfxtg+XoYeCTLS4bFh7epOfkhoPX1+yuTrN/QhUSMPjieiw99yBa+UEC0MKhVKAAAAAElFTkSuQmCC" id="img1-image"/>
+                                    </g>
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="71.484375" y="319.5" x="96" xml:space="preserve">Summary</tspan>
+                                    </text>
+                                </a>
+                                <a aria-owns="img2" role="link" data-stacking-context="true" data-z-index="auto" class="nav-links" id="nav-links2" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/addTask.html">
+                                    <g mask="url(#mask-for-img21)" data-stacking-context="true" data-z-index="auto" id="img2" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-img21">
+                                            <rect fill="#ffffff" y="349" x="58" height="31" width="30"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/add_task_icon.png" height="31" width="30" y="349" x="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGMSURBVHgB7dbLcYJAGAfwD/Tg0RJMB3F8zHjTDuwg2IFWoCWYCkI6SAdJThyAISVQArkxDI9832TJbHCB3Q3kov8LC+z6m32wLsAt/xQDeojrumvDMI5YHOd5/rhcLu3eYc/zHhC1+WeIHxaLxbk3WISWKYrCms/nz0LY9/0jVliDRBCITNPcTafTqA1lofp3Zf0hj+LlhI1BIlGWZZvZbCaLUsZxHI+p7S+YesrQEMvvTb+Ac3bGBfMhQKMSETQLV6tVWN4Mq28RfcO52IFEqiiNAhUGg8FrBQ+TJNnwbU3QjAilUWAjYVdRvrfacB1KN2yt7JtQLVgCPbWhynBXqBLcJSoNB0Ew0UHpneM4E204TVOrLKug3Ds9mI8MSv9O0IBShqAYnOsnHHbaHLYiVDbKMKIWd6uFSsO4jb7Adw+r26Clg0rDbF7vocNo79U3WDUXc0yfCvsO/5LW9cDDn+y6xbPRFjrKaDSKRM9/hhpPDXvsbQjdhcBDebir5uJkV7epq4Z6WodeZ74AUyMXg5A5yoUAAAAASUVORK5CYII=" id="img2-image"/>
+                                    </g>
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="70.375" y="374.5" x="96" xml:space="preserve">Add Task</tspan>
+                                    </text>
+                                </a>
+                                <a aria-owns="img3" role="link" data-stacking-context="true" data-z-index="auto" class="nav-links" id="nav-links3" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/board.html">
+                                    <g mask="url(#mask-for-img31)" data-stacking-context="true" data-z-index="auto" id="img3" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-img31">
+                                            <rect fill="#ffffff" y="404" x="58" height="31" width="30"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/board-icon.png" height="31" width="30" y="404" x="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEbSURBVHgB7VZLjoJAEO0m7ocbTB+BhE/CarjBzA1Gj+AJ1JOoN/AIuAaCnkC8AWvCx1dJk7QEY9zgwnoJVHW9al7RvXlCMCaCpFeSJBFCNMKXlmWVbduqIdF1XSGltJHar3ConzzPO8gsy+ZYb8WEwI8sZ5juH1PQJAXy66DnR0/5kAPOeMq+iN4v9Dp6eTQ3gPsGpxCjWV9smmbv+/7abMRpdBTrut4EQbDr63meK0x9obyqqr8wDAtjz1zoE3RdNzK/hytd4+pWdA2WeBNYmIVZmIVZmIVZmIWnh0zT9AAP9IucDF1xR8KUUUT9JAxDB9jgHM3Fgz0KQT3hjm+xtzCWi6eGXltbZ4x7ZPbJtJOTHOOAGG42Fh+HG+ERf0c+z0bnAAAAAElFTkSuQmCC" id="img3-image"/>
+                                    </g>
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="44.59375" y="429.5" x="96" xml:space="preserve">Board</tspan>
+                                    </text>
+                                </a>
+                                <a aria-owns="img4" role="link" data-stacking-context="true" data-z-index="auto" class="nav-links" id="nav-links4" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/contacts.html">
+                                    <g mask="url(#mask-for-img41)" data-stacking-context="true" data-z-index="auto" id="img4" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-img41">
+                                            <rect fill="#ffffff" y="459" x="58" height="31" width="30"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/contact_icon.png" height="31" width="30" y="459" x="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJFSURBVHgB7VbLTcNAEJ18lOToEkwFEOUj5YTpACogrgCoIO4AqACnAzrAOeWQRA4VYCrA53x5E+0E52NnrVjkAE+yvN5dz9uZfTO7RP/4JeSSBgeDgYUXP9RoNBzSAP6ReR7+8eLmFSkZVj6f76i2QxqQ+YvFYkUeO49OhJ1QD4fD21wu94SmQdkgWC6XD/V6/TWW2Pd9EyHyMyQVhNiCs2q1GkrHxh7PZjMTE4TUxSI+6QggciaeWzQN2L6gyJ7Higuk3ThVIjLGdDplo0axWBxHPYmCs0IR7yC1uGDsHov6KBQKPqLzhvbXaDTqpLWTipgJQPZIuxpweEGUAtrELDz6yWVW6g28vUIog5UhLIi3QNeeNvF8Pr+QNghtTg/WAPpt6ce+X+va0yZmIUkbCg2kDc/XwoLXoa69QyWTIkY9VQapXC6/9Pt9u1KphOhbCwsej7Xt6U5EygR4raoPvLRKpdIHKxqfEl631WoFuvZSqRpe2yDt7hnqYeyBUkA71AxVKNpIHRdvEds46fjLhFigiDw6Aic7FrU9VnWXhXSON4dZ0ivEvrOa3yE2t9lsain7ILEi7OCxYqYYasxC/b7Dee4hrexDCk8kVsXf2erusYdSOLiwqAhcqu9VquFfBxHopSbG6h9hXJTLJM9Imae4I1BdItporu9osMELpFTEEdJgMplcHQqdKjAOFuDKLSZiI5k4WncjMFXoSAdSVrexbXsjnViR2COPMgZsdrfVvvdCD+/aWLlJGQC6CGq1mkt/Ht93uxTRJsN5gAAAAABJRU5ErkJggg==" id="img4-image"/>
+                                    </g>
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="68.34375" y="484.5" x="96" xml:space="preserve">Contacts</tspan>
+                                    </text>
+                                </a>
+                            </g>
+                            <g aria-owns="legal-Links1 legal-Links2" data-stacking-context="true" data-z-index="auto" class="legally-links-wrapper" id="legally-links-wrapper1" data-tag="div">
+                                <a role="link" opacity="0.5" data-stacking-context="true" data-z-index="auto" class="legal-Links" id="legal-Links1" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/privatePolicy.html">
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="104.96875" y="812.59375" x="58" xml:space="preserve">Privacy Policy</tspan>
+                                    </text>
+                                </a>
+                                <a role="link" opacity="0.5" data-stacking-context="true" data-z-index="auto" class="legal-Links" id="legal-Links2" data-tag="a" href="https://alexander-haehnlein.developerakademie.net/join_ftp/legalNotice.html">
+                                    <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="92.171875" y="832.59375" x="58" xml:space="preserve">Legal notice</tspan>
+                                    </text>
+                                </a>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g aria-owns="board-search-add-wrapper1 search-task-mobile1 addTaskPopUpBackground editTaskPopUpBackground board-wrapper1" data-stacking-context="true" data-z-index="auto" class="board-container" id="board-container1" data-tag="div">
+                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                    <g aria-owns="addTaskPopUp" data-stacking-context="true" data-z-index="101" class="add-task-popup-board-container d-none" id="addTaskPopUpBackground" data-tag="div">
+                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                            <g aria-owns="closePopUpBtn" mask="url(#mask-for-addTaskPopUp1)" data-stacking-context="true" data-z-index="102" class="add-task-popup-board" id="addTaskPopUp" data-tag="div">
+                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                    <g mask="url(#mask-for-closePopUpBtn1)" data-stacking-context="true" data-z-index="10" class="close-popup-btn" id="closePopUpBtn" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-closePopUpBtn1">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/close_big_icon.png" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAAFACAYAAADNkKWqAAAAAXNSR0IArs4c6QAAERBJREFUeF7t3Vt2HjcORWH9U9PEbE9MU1MvecVpx9alLiBBEF9e+qGrSHCfw52SEzuPJ38hgAACTQk8mp7bsRFAAIEnAlQCBBBoS4AA20bv4AggQIA6gAACbQkQYNvoHRwBBAhQBxBAoC0BAmwbvYMjgAAB6gACCLQlQIBto3dwBBAgQB1AAIG2BAiwbfQOjgACBKgDCCDQlgABto3ewRFAgAB1AAEE2hIgwLbROzgCCBCgDiCAQFsCBNg2egdHAAEC1AEEEGhLgADbRu/gCCBAgDqAAAJtCRBg2+gdHAEECFAHEECgLQECbBu9gyOAAAHqAAIItCVAgG2jd3AEECBAHUAAgbYECLBt9A6OAAIEqAMIINCWAAG2jd7BEUCAAHUAAQTaEiDAttE7OAIIEKAOIIBAWwIE2DZ6B0cAAQLUAQQQaEuAANtG7+AIIECAOoAAAm0JEGDb6B0cAQQIUAcQQKAtAQJsG72DI4AAAeoAAgi0JUCAbaN3cAQQIEAdQACBtgQIsG30Do4AAgSoAwgg0JYAAbaN3sERQIAAdQABBNoSIMC20Ts4AggQoA4ggEBbAgTYNnoHRwABAtQBBBBoS4AA20bv4AggQIA6gAACbQkQYNvoHRwBBAhQBxBAoC0BAmwbvYMjgAAB6gACCLQlQIBto3dwBBAgQB1AAIG2BAiwbfQOjgACBKgDCCDQlgABto3ewRFAgAB1AAEE2hIgwLbROzgCCBCgDiCAQFsCBNg2egdHAAEC1AEEEGhLgADbRu/gCCBAgDqAAAJtCRBgUPTPz8/f35Z6eXn5+b/+QmAEAT2LpUqAATzfSvl4PL69LfX6+vqDBAOgWuIvAnoWXwoCvMn091L+WooEb0L1+qfy07O4ghDgDZbvyU85bwD16rsE9GxcMQjwItvPSvmbBL+/vLz8uLiF1xB4en5+/vZ4PD79dWU/cVwvCgFeYHdEfiR4AaxX/kPgiPz8xHGvNAR4kt8Z+ZHgSbge/5fAGfmR4PXiEOAJdlfkR4InAHv0J4Er8iPBa+UhwIPc7siPBA9C9tgt+ZHg+QIR4AFmEfIjwQOgmz9y58vvT3T+wcixMhHgF5wi5UeCx0rZ8alI+fkSPN4gAvyE1Qj5keDxcnZ5coT8SPBYewjwA04j5UeCx8rZ4amR8iPBrxtEgO8wmiE/Evy6nLs/MUN+JPh5iwgwWYBv27++vvodI7vb7o/zzZTfPx3zh3S80zECTPwR+PetSbCPAclvnawJMOkfgry3LQmuczFGTUJ+o8heW5cAv+A289cD/Th8rcRV3iK/9ZIiwAOZJBTXrwkeyKXSIwkd8mt+BwpCgAcgvT2SUGASPJjN6o8ldIf8DpaCAA+CIsEToDz6LwHyW7sMBHgyn4RC+xI8mdEqjyd0xZffyfAJ8CQwX4IXgDV8hfxqhE6AF3NKKLgvwYtZzX4toRu+/C6GTIAXwfkSvAFu41fJr1a4BHgzr4TC+xK8mdmo1xO64MvvZpgEeBOgL8EAgBssQX41QyTAoNwSLoAvwaDs7i6TkL0vv7uh/fM+AQaB9CUYCLLQUuRXKKx3RiXA4PwSLoQvweAMjy6XkLUvv6PhHHyOAA+COvNYwsUgwTMBBTybkDH5BeT25xIEOACqH4cHQV1kWfJbJIiAMQgwAOJHSyRcFF+CA/NM+hubL7+BmRLgQLhJF4YEB2Wa8Dc08huU5a9lCXAwYBKcAHjCFuQ3AXLCFgQ4CXrCBfIlGJRtQna+/IKy+2oZAvyKUOD/n3CRSPBmfgmZkd/NzM68ToBnaAU8m3ChSPBibglZkd/FrK6+RoBXyd14z8W6AW/SqzKaBDp5GwJMCsAFSwJ/YNuE/xKgL78DuYx4hABHUD24JgkeBDXxMfKbCHuBrQgwOQQSTA7gt+3Jb50sZk1CgLNIf7IPCeaHQH75GWRMQIAZ1N/ZkwTzgiC/PPbZOxNgdgL//RHs2+Px+D5rpNfX1/a/+E5+s9q25j4EuFguvgTnBUJ+81ivuhMBLpgMCY4PhfzGM66wAwEumhIJjguG/MaxrbYyAS6cGAnGh0N+8Uwrr0iAi6dHgnEBkV8cy11WIsACSZLg/ZDI7z7DHVcgwCKpkuD1oMjvOrvd3yTAQgmT4PmwyO88s05vEGCxtF3o44FhdZxV1ycJsGDyLvbXoWH0NSNPPD0RYNEWuOAfB4dN0VInjE2ACdCjtnTR/yaJSVS7eqxDgMVzduH/HyAWxcucMD4BJkCP3tLFf3rCILpVPdYjwE1y7iyAzmffpL5pxyDANPTxG3cUQcczxzen74oEuFn2nYTQ6ayb1XSZ4xDgMlHEDdJBDB3OGNcIK31EgAA37cbOgtj5bJvWcdljEeCy0dwfbEdR7Him+0lb4SoBArxKrsh7Owljp7MUqc/2YxLg9hHv8e/IkV+DoiYckQAToGdsWVkglWfPyNqexwkQ4HFW5Z+sKJKKM5cvSqMDEGCjsN+OWkkolWZtVqNtjkuA20R5/CAVxFJhxuPEPbkqAQJcNZnBc60smJVnGxyL5ScTIMDJwFfabkXRrDjTSpmZJZYAAcbyLLfaSsJZaZZyQRr4EgECvIRtr5dWEM8KM+yVqtMcIUCARyg1eCZTQJl7N4jWET8hQIDq8S+BDBG9bf54PL7NiuH19fXHy8vL91n72WdtAgS4dj7Tp5stwZkHJL+ZtGvsRYA1cpo65Y4SJL+pFSqzGQGWiWruoDtJkPzmdqfSbgRYKa3Js+4gQfKbXJpi2xFgscBmj1tZguQ3uy319iPAeplNn7iiBMlvek1KbkiAJWObP3QlCZLf/H5U3ZEAqyaXMHcFCZJfQjEKb0mAhcPLGH1lCZJfRiNq70mAtfNLmX5FCZJfShXKb0qA5SPMOcBKEiS/nA7ssCsB7pBi0hlWkCD5JYW/ybYEuEmQWcfIlCD5ZaW+z74EuE+WaSfJkCD5pcW91cYEuFWcOYchwBzudr1PgADvM2y9Qob8fgH3Fdi6eiGHJ8AQjD0XyZQfCfbsXPSpCTCaaJP1VpAfCTYp28BjEuBAuLsu/fz8/O3xeCz1x8r7cXjXto09FwGO5bvd6ivKz5fgdjWbdiACnIa6/kYry48E6/cr4wQEmEG94J4V5EeCBYuVPDIBJgdQYftK8iPBCo1aZ0YCXCeLJSepKD8SXLJKSw5FgEvGssZQleVHgmt0aPUpCHD1hJLm20F+JJhUnkLbEmChsGaNupP8SHBWa2ruQ4A1cxs29Y7yI8FhdSm/MAGWjzDuALPl9/a7N96mfzwe3+JO8flKfsfILNI19iHAGjkNnzJDfi8vLz9/O93s31dMgsPrVGYDAiwT1bhBM+X361QkOC5fK39MgACbt2MF+ZFg8xImHp8AE+Fnb72S/Egwuw099yfAnrm//brb1D/S6syvu/lxuGkpE45NgAnQs7dcWX6+BLPb0Wt/AuyV99Jffn9G4UuwWTkTjkuACdCztqzw5UeCWe3ouS8BNsm9ovz8ONyknInHJMBE+LO2riw/EpzVkp77EODmue8gPxLcvKSJxyPARPijt95JfiQ4ui091yfATXPfUX4kuGlZE49FgInwR229s/xIcFRreq5LgJvl3kF+JLhZaROPQ4CJ8KO37iQ/EoxuT8/1CHCT3DvKjwQ3KW/iMQgwEX7U1p3lR4JRLeq5DgEWz538/h+g3ztcvMwJ4xNgAvSoLcnvb5IkGNWuHusQYNGcye/j4EiwaKkTxibABOh3tyS/rwmS4NeMPPH0RIDFWkB+xwMjweOsuj5JgIWSJ7/zYZHgeWad3iDAImm7yNeDwu46u93fJMACCbvA90PC8D7DHVcgwMVTdXHjAsIyjuUuKxHgwkm6sPHhYBrPtPKKBLhoei7quGCwHce22soEuGBiLuj4UDAez7jCDgS4WEou5rxAsJ7HetWdCHChZFzI+WFgPp/5SjsS4CJpuIh5QWCfxz57ZwLMTuDp6ckFzA9BBvkZZExAgBnUf9vTxUsOQBbrBJAwCQEmQP+1Jfklwv9ga5msl8nIiQhwJN1P1nbRksAf2FY2ByBt8ggBJgTpgiVAP7mljE4CK/o4AU4OzsWaDPzGdrK6Aa/IqwQ4MSgXaiLsoK1kFgRy0WUIcFIwLtIk0AO2kd0AqIssSYATgnCBJkAevIUMBwNOWp4AB4N3cQYDnri8LCfCnrQVAQ4E7cIMhJu0tEyTwA/algAHgXVRBoFdYFnZLhBC0AgEGATy92VckAFQF1tSxosFcnEcArwI7qPXXIxgoAsvJ+uFwzk4GgEeBHXkMRfiCKW9npF57TwJMCg/FyEIZMFlZF8wtH9GJsCA7FyAAIjFl9CBmgES4M3cFP8mwI1e14V6YRLgjcwU/ga8TV/ViVrBEuDFvBT9IrgGr+lGnZAJ8EJWCn4BWrNXdKRG4AR4MifFPgms8eO6sn74BHgiI4U+AcujPwnozNpFIMCD+SjyQVAe+4uA7qxbCgI8kI0CH4DkkU8J6NCaBSHAL3JR3DWLW3EqXVovNQL8JBOFXa+w1SfSqbUSJMAP8lDUtYq60zS6tU6aBPhOFgq6TkF3nUTH1kiWAJMF+Pr6+uPl5eX7GnUwxUwCMyWoZ+8nS4CJPwIr5UzdrLnXDAnq2cfZE2DSPwRRyjWFlDHVSAnq2eeJEmDCvwajlBmaWXvPERLUs68zJ8CvGYX+dialPAC86SOREtSzYyUiwGOcQiSolAdhN34sQoJ6drxABHic1S0JKuUJ0M0fvSNBPTtXHgI8x+uSBJXyJGSP69mkDhDgBdBn/g5NfhcAe+UnAT0bXwQCvMj4SDnJ7yJcr/1LQM/GloEAb/D9rJzkdwOsV/9DQM/GFYIAb7J9r5zkdxOq1/8ioGdjSkGAAVx/Lyf5BQC1xLsE9Cy+GAQYxPStnG9L+YMNgoBa5kMJ6llcOQgwjqWVEECgGAECLBaYcRFAII4AAcaxtBICCBQjQIDFAjMuAgjEESDAOJZWQgCBYgQIsFhgxkUAgTgCBBjH0koIIFCMAAEWC8y4CCAQR4AA41haCQEEihEgwGKBGRcBBOIIEGAcSyshgEAxAgRYLDDjIoBAHAECjGNpJQQQKEaAAIsFZlwEEIgjQIBxLK2EAALFCBBgscCMiwACcQQIMI6llRBAoBgBAiwWmHERQCCOAAHGsbQSAggUI0CAxQIzLgIIxBEgwDiWVkIAgWIECLBYYMZFAIE4AgQYx9JKCCBQjAABFgvMuAggEEeAAONYWgkBBIoRIMBigRkXAQTiCBBgHEsrIYBAMQIEWCww4yKAQBwBAoxjaSUEEChGgACLBWZcBBCII0CAcSythAACxQgQYLHAjIsAAnEECDCOpZUQQKAYAQIsFphxEUAgjgABxrG0EgIIFCNAgMUCMy4CCMQRIMA4llZCAIFiBAiwWGDGRQCBOAIEGMfSSgggUIwAARYLzLgIIBBHgADjWFoJAQSKESDAYoEZFwEE4ggQYBxLKyGAQDECBFgsMOMigEAcAQKMY2klBBAoRoAAiwVmXAQQiCNAgHEsrYQAAsUIEGCxwIyLAAJxBAgwjqWVEECgGAECLBaYcRFAII4AAcaxtBICCBQjQIDFAjMuAgjEESDAOJZWQgCBYgQIsFhgxkUAgTgCBBjH0koIIFCMAAEWC8y4CCAQR4AA41haCQEEihEgwGKBGRcBBOIIEGAcSyshgEAxAgRYLDDjIoBAHAECjGNpJQQQKEaAAIsFZlwEEIgjQIBxLK2EAALFCBBgscCMiwACcQQIMI6llRBAoBgBAiwWmHERQCCOAAHGsbQSAggUI0CAxQIzLgIIxBEgwDiWVkIAgWIE/gc8wmnXmTbBmQAAAABJRU5ErkJggg==" id="closePopUpBtn-image"/>
+                                    </g>
+                                </g>
+                                <mask id="mask-for-addTaskPopUp1">
+                                    <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                </mask>
+                            </g>
+                        </g>
+                    </g>
+                    <g aria-owns="editTaskPopUp" data-stacking-context="true" data-z-index="101" class="existing-task-popup-board-container d-none" id="editTaskPopUpBackground" data-tag="div">
+                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                            <g aria-owns="closePopUpBtn_editTask category-user-story1 existing-task-popup-headline1 existing-task-popup-description1 existing-task-popup-date1 existing-task-popup-priority1 existing-task-popup-user-wrapper1 existing-task-popup-subtasks1 popup-delete-edit-btn-wrapper1" data-stacking-context="true" data-z-index="2" class="existing-task-popup-board" id="editTaskPopUp" data-tag="div">
+                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                    <g mask="url(#mask-for-closePopUpBtn_editTask1)" data-stacking-context="true" data-z-index="10" class="close-popup-btn" id="closePopUpBtn_editTask" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-closePopUpBtn_editTask1">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/close_big_icon.png" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,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" id="closePopUpBtn_editTask-image"/>
+                                    </g>
+                                </g>
+                                <g data-stacking-context="true" data-z-index="auto" class="category-user-story task-category" id="category-user-story1" data-tag="div"/>
+                                <g data-stacking-context="true" data-z-index="auto" class="existing-task-popup-headline" id="existing-task-popup-headline1" data-tag="div"/>
+                                <g data-stacking-context="true" data-z-index="auto" class="existing-task-popup-description" id="existing-task-popup-description1" data-tag="div"/>
+                                <g aria-owns="popUpDate" data-stacking-context="true" data-z-index="auto" class="existing-task-popup-date" id="existing-task-popup-date1" data-tag="div">
+                                    <g data-stacking-context="true" data-z-index="auto" id="popUpDate" data-tag="span"/>
+                                </g>
+                                <g aria-owns="popUpDate" data-stacking-context="true" data-z-index="auto" class="existing-task-popup-priority" id="existing-task-popup-priority1" data-tag="div">
+                                    <g aria-owns="img6" data-stacking-context="true" data-z-index="auto" id="popUpDate" data-tag="span">
+                                        <g mask="url(#mask-for-img61)" data-stacking-context="true" data-z-index="auto" id="img6" data-tag="img">
+                                            <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                            <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                            <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                            <g data-stacking-layer="nonPositionedFloats"/>
+                                            <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                            <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                            <mask id="mask-for-img61">
+                                                <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                            </mask>
+                                            <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/prio_medium.png" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAICAYAAAAWX7TTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABdSURBVHgB1ZAxEYBADAQ3DAKQ8BKQhBTMMJQgARw8CsABNQ0hDEi45rdIUu1czgh8pIuVUHAzWwgTxo6ObO8McY8qqZMphu/9gZaKBg2H+RSyixMdS/0fWxSsSro+dfoVNo5ChrgAAAAASUVORK5CYII=" id="img6-image"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g aria-owns="popup-user-headline1 popup-user1 popup-user2 popup-user3" mask="url(#mask-for-existing-task-popup-user-wrapper11)" data-stacking-context="true" data-z-index="auto" class="existing-task-popup-user-wrapper" id="existing-task-popup-user-wrapper1" data-tag="div">
+                                    <mask id="mask-for-existing-task-popup-user-wrapper11">
+                                        <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                    </mask>
+                                    <g data-stacking-context="true" data-z-index="auto" class="popup-user-headline" id="popup-user-headline1" data-tag="div"/>
+                                    <g aria-owns="task-member-icon1" data-stacking-context="true" data-z-index="auto" class="popup-user" id="popup-user1" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="task-member-icon member-icon-1" id="task-member-icon1" data-tag="div"/>
+                                    </g>
+                                    <g aria-owns="task-member-icon2" data-stacking-context="true" data-z-index="auto" class="popup-user" id="popup-user2" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="task-member-icon member-icon-2" id="task-member-icon2" data-tag="div"/>
+                                    </g>
+                                    <g aria-owns="task-member-icon3" data-stacking-context="true" data-z-index="auto" class="popup-user" id="popup-user3" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="task-member-icon member-icon-3" id="task-member-icon3" data-tag="div"/>
+                                    </g>
+                                </g>
+                                <g aria-owns="popup-subtask-headline1 popup-subtask-task1 popup-subtask-task2" mask="url(#mask-for-existing-task-popup-subtasks11)" data-stacking-context="true" data-z-index="auto" class="existing-task-popup-subtasks" id="existing-task-popup-subtasks1" data-tag="div">
+                                    <mask id="mask-for-existing-task-popup-subtasks11">
+                                        <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                    </mask>
+                                    <g data-stacking-context="true" data-z-index="auto" class="popup-subtask-headline" id="popup-subtask-headline1" data-tag="div"/>
+                                    <g aria-owns="task-done-state1 popup-subtask-name1" data-stacking-context="true" data-z-index="auto" class="popup-subtask-task" id="popup-subtask-task1" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="task-done-state task-done-state-checked" id="task-done-state1" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="popup-subtask-name" id="popup-subtask-name1" data-tag="div"/>
+                                    </g>
+                                    <g aria-owns="task-done-state2 popup-subtask-name2" data-stacking-context="true" data-z-index="auto" class="popup-subtask-task" id="popup-subtask-task2" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="task-done-state" id="task-done-state2" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="popup-subtask-name" id="popup-subtask-name2" data-tag="div"/>
+                                    </g>
+                                </g>
+                                <g aria-owns="popup-delete-btn1 popup-edit-btn1" data-stacking-context="true" data-z-index="auto" class="popup-delete-edit-btn-wrapper" id="popup-delete-edit-btn-wrapper1" data-tag="div">
+                                    <g aria-owns="popup-delete-icon1" data-stacking-context="true" data-z-index="auto" class="popup-delete-btn popup-btn" id="popup-delete-btn1" data-tag="div">
+                                        <g data-stacking-layer="rootBackgroundAndBorders">
+                                            <line y2="0" y1="0" x2="0" x1="0" stroke-width="2px" stroke="rgb(209, 209, 209)" stroke-linecap="square"/>
+                                        </g>
+                                        <g data-stacking-context="true" data-z-index="auto" class="popup-delete-icon" id="popup-delete-icon1" data-tag="div"/>
+                                    </g>
+                                    <g aria-owns="popup-edit-icon1" data-stacking-context="true" data-z-index="auto" class="popup-edit-btn popup-btn" id="popup-edit-btn1" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="popup-edit-icon" id="popup-edit-icon1" data-tag="div"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g aria-owns="board-headline1 search-add-wrapper1" data-stacking-context="true" data-z-index="auto" class="board-search-add-wrapper distances" id="board-search-add-wrapper1" data-tag="div">
+                    <g aria-level="1" role="heading" data-stacking-context="true" data-z-index="auto" class="board-headline" id="board-headline1" data-tag="h1">
+                        <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="48px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                            <tspan lengthAdjust="spacingAndGlyphs" textLength="137.921875" y="187.15625" x="300" xml:space="preserve">Board</tspan>
+                        </text>
+                    </g>
+                    <g aria-owns="searchTask add-task-btn1" data-stacking-context="true" data-z-index="auto" class="search-add-wrapper" id="search-add-wrapper1" data-tag="div">
+                        <g mask="url(#mask-for-searchTask1)" aria-labelledby="" aria-placeholder="find Task" data-stacking-context="true" data-z-index="auto" class="search-task search-task-desktop" id="searchTask" data-tag="input">
+                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                <rect ry="10" rx="10" stroke-width="1px" stroke="rgb(209, 209, 209)" fill="rgb(255, 255, 255)" y="132.15625" x="1361.90625" height="51" width="287"/>
+                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/search_icon.png" y="132.15625" x="1361.90625" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAH9SURBVHgB7ZXNahRBEMf/1ZP4AYIjkosiDH6xehrBFW9OQEPwlKO3rI+wb2DeYH0C9w3Wk+zqYeNNmD2Ml82KQeYgASWH5BaSTFe6djcbEpLO9DKQHOZ36ZmpYupf3VXVQElJyQVDeR2DMPKvz1ytQfErMPmjr/on73mNQdJOMSW5BFSev44UeS3j7Z9mZ43GWq9TxxScK+Dxi4WlGVBrHOo7WDWVh1TeMq1rBFoemdDsx533cMQqoBIuBnSFu8Yp0JpWBr32h5M+T6tvQyOlK7uTadR/9ToNOKCs1tkskuAmveS04EI//pKYPIbb7xEvwxGrAEVqafjA6qPNrx+3m+YItkAUVl4uBihKABFuyqp5dOZWaFwXWebDAasAZmwP/83a6aeFCcBh5oojm5sUq1lMMSL9HX9LUJQA5dFnWaXVHlXfhGf50Sx/Gj1gFY54NuP/v+vp3J2Ht0wxRMbx3e279/9tbvyZZCiZz9170DK1Esm7adX65sZ6CgdyTcIn1YUm0WTgbDGQmKABhi16hPme8i7Nu4xmlcdpLf5aM/NfplwqA2eccUDSeqAVsPdMbDIzZHCNayIXuS+jQ4Io8m/sXAv3TcDBj6NMpf+V5q64uOyEswAb04goVMA0InLVgAtyLFrRPCY1oa2XU+ECjosw17emVZSUlFxmDgC3/r0ZeQLx8wAAAABJRU5ErkJggg==" height="51" width="287" id="background-image1"/>
+                            </g>
+                            <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                            <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                            <g data-stacking-layer="nonPositionedFloats"/>
+                            <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                            <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                            <mask id="mask-for-searchTask1">
+                                <rect fill="#ffffff" y="132.15625" x="1361.90625" height="51" width="287"/>
+                            </mask>
+                        </g>
+                        <g aria-owns="span2 img5" data-stacking-context="true" data-z-index="auto" class="add-task-btn" id="add-task-btn1" data-tag="div">
+                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                <rect ry="10" rx="10" fill="rgb(42, 54, 71)" y="133.65625" x="1680.90625" height="48" width="139.09375"/>
+                            </g>
+                            <g data-stacking-context="true" data-z-index="auto" id="span2" data-tag="span">
+                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="67.09375" y="167.65625" x="1701.90625" xml:space="preserve">Add task</tspan>
+                                </text>
+                            </g>
+                            <g mask="url(#mask-for-img51)" data-stacking-context="true" data-z-index="auto" id="img5" data-tag="img">
+                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                <g data-stacking-layer="nonPositionedFloats"/>
+                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                <mask id="mask-for-img51">
+                                    <rect fill="#ffffff" y="146.65625" x="1777" height="22" width="22"/>
+                                </mask>
+                                <g role="img" data-tag="img">
+                                    <g transform="matrix(1 0 0 1 1777 146.656)" data-height="22" data-width="22" data-view-box="0 0 22 22" class="svg-content">
+                                        <path fill="none" color="rgb(0, 0, 0)" stroke-linecap="round" stroke-width="2px" stroke="rgb(255, 255, 255)" d="M11 1V21"/>
+                                        <path fill="none" color="rgb(0, 0, 0)" stroke-linecap="round" stroke-width="2px" stroke="rgb(255, 255, 255)" d="M21 11L1.00048 11.138"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g aria-owns="searchTask" data-stacking-context="true" data-z-index="auto" class="search-task-mobile" id="search-task-mobile1" data-tag="div">
+                    <g mask="url(#mask-for-searchTask2)" aria-labelledby="" aria-placeholder="find Task" data-stacking-context="true" data-z-index="auto" class="search-task search-task-mobile" id="searchTask" data-tag="input">
+                        <mask id="mask-for-searchTask2">
+                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                        </mask>
+                    </g>
+                </g>
+                <g aria-owns="board-column1 board-column2 board-column3 board-column4" data-stacking-context="true" data-z-index="auto" class="board-wrapper distances" id="board-wrapper1" data-tag="div">
+                    <g aria-owns="board-column-headline1 todoColumnContainer" data-stacking-context="true" data-z-index="auto" class="board-column" id="board-column1" data-tag="div">
+                        <g aria-owns="add-a-card-btn1" data-stacking-context="true" data-z-index="auto" class="board-column-headline" id="board-column-headline1" data-tag="div">
+                            <text fill="rgb(66, 82, 110)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(66, 82, 110)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(66, 82, 110)">
+                                <tspan lengthAdjust="spacingAndGlyphs" textLength="53.671875" y="243.3125" x="300" xml:space="preserve">To do</tspan>
+                            </text>
+                            <g data-stacking-context="true" data-z-index="auto" class="add-a-card-btn" id="add-a-card-btn1" data-tag="div">
+                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                    <rect fill="rgba(0, 0, 0, 0)" y="219.3125" x="580" height="24" width="24"/>
+                                    <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/add_btn_board.png" y="219.3125" x="580" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAZCAYAAAArK+5dAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJOSURBVHgB1VZBbxJREJ4Zika5YIwaTZpgYuOKlzVp0ZtrosCt+AuK/8DevAEnj+ovKP0H6w1PXW+meti9NHto4h48EOOBiy0t8sZ5u0ApJSxQeuiXLLw383a+fTNvZh7CGGRMK309mSwBYgamAAO4fEyu7zaCUR0OTwyzmMEkbyGCBfOAoa46WBsmGhAYufwGMX4USRoZWozsidiZyjCgKT/rEQm3FNJbf7exPSAwVl9aRImdSA+fDlNH1cBxWjADjGeye6WqCLih50rhC/9HwwkJHuUKP2WQEWFNhFU4B7K5YlU+syJxCQ6Pj56gsfaqTEhbogv2dr/chwXg8dPCjnjCYgWblCAKtwSMNVgQWKnQ/xKAdRIWHSA46LTtuBf1bvUTt+5KJ2VH9tkkfWr0JHDjg6pd2XPnRLiuHdlCTBNcMC6cYGmSMsyPMeUiOxQHxYlAn3eYh6CffGcwFAcCpf19A+YhkKP7hlFZA7u9LGXg7RMZOZNMYDZXYD2QJEOIwTxrL/8pInFomBS6ycSulpiETwxMsxTZktK9hCTdSApT2MEA6pNe3PveqMMUaCf/lij8dvBIdeFzSAa9orcAIFIl/Aeq09V/1+oyDnSbNFbzFTgnsrl8RfcWbVPvONFs+u07yyueuKmMiNatew8yN2+veH+a+zN1NB3Du8sP34uNd3pOhK9//9oPTnryWrEsXvvQr66STLYovWmMM+NzWWv2+3kXcNPvxev0rWKkr84O/qqIyv63MbeKUaKkUmYXomYUb5eCg1TbHndR+A8gVd7Od6wdnQAAAABJRU5ErkJggg==" height="24" width="24" id="background-image2"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g aria-owns="taskCard32" data-stacking-context="true" data-z-index="auto" class="task-card-container" id="todoColumnContainer" data-tag="div">
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                <g aria-owns="category-user-story2 stateDropdownIcon32 stateDropdown32 task-headline1 task-comment1 subtask-counter-wrapper1 member-priority-wrapper1" data-stacking-context="true" data-z-index="1" class="task-card" id="taskCard32" data-tag="div">
+                                    <g data-stacking-layer="rootBackgroundAndBorders">
+                                        <rect ry="24" rx="24" fill="rgb(255, 255, 255)" y="267.3125" x="291.203125" height="249" width="321.59375"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="category-user-story task-category" id="category-user-story2" data-tag="div">
+                                        <g data-stacking-layer="rootBackgroundAndBorders">
+                                            <rect ry="10" rx="10" fill="rgb(0, 56, 255)" y="291.3125" x="315.203125" height="28" width="112.625"/>
+                                        </g>
+                                        <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="80.625" y="315.3125" x="331.203125" xml:space="preserve">User Story</tspan>
+                                        </text>
+                                    </g>
+                                    <g mask="url(#mask-for-stateDropdownIcon321)" aria-label="three dots" role="img" data-stacking-context="true" data-z-index="auto" class="change-state-icon" id="stateDropdownIcon32" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-stateDropdownIcon321">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/three_dots_icon.png" aria-label="three dots" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,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" id="stateDropdownIcon32-image"/>
+                                    </g>
+                                    <g aria-owns="state-dropdown-element1 state-dropdown-element2 state-dropdown-element3 state-dropdown-element4" data-stacking-context="true" data-z-index="auto" class="state-dropdown d-none" id="stateDropdown32" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element1" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element2" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element3" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element4" data-tag="div"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-headline" id="task-headline1" data-tag="div">
+                                        <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="157.8125" y="347.3125" x="315.203125" xml:space="preserve">Defend Helm's Deep</tspan>
+                                        </text>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-comment" id="task-comment1" data-tag="div">
+                                        <text fill="rgb(168, 168, 168)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(168, 168, 168)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(168, 168, 168)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="267.09375" y="375.3125" x="315.203125" xml:space="preserve">Defend the fortress of Helm's Deep </tspan>
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="184.171875" y="395.3125" x="315.203125" xml:space="preserve">against Saruman's army.</tspan>
+                                        </text>
+                                    </g>
+                                    <g aria-owns="subtask-progressbar1 subtask-counter1" data-stacking-context="true" data-z-index="auto" class="subtask-counter-wrapper" id="subtask-counter-wrapper1" data-tag="div">
+                                        <g aria-owns="subtask-bar-half1" data-stacking-context="true" data-z-index="auto" class="subtask-progressbar" id="subtask-progressbar1" data-tag="div">
+                                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                                <rect ry="4" rx="4" fill="rgb(244, 244, 244)" y="422.8125" x="315.203125" height="8" width="100"/>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="subtask-bar-half" id="subtask-bar-half1" data-tag="span"/>
+                                        </g>
+                                        <g data-stacking-context="true" data-z-index="auto" class="subtask-counter" id="subtask-counter1" data-tag="div">
+                                            <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                                <tspan lengthAdjust="spacingAndGlyphs" textLength="74.703125" y="434.3125" x="423.203125" xml:space="preserve">0/2 Subtasks</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g aria-owns="task-member1 priority-icon1" data-stacking-context="true" data-z-index="auto" class="member-priority-wrapper" id="member-priority-wrapper1" data-tag="div">
+                                        <g aria-owns="task-member-icon4 task-member-icon5 task-member-icon6" data-stacking-context="true" data-z-index="auto" class="task-member" id="task-member1" data-tag="div">
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon4" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(139, 0, 0)" y="458.3125" x="309.203125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="15.296875" y="482.8125" x="318.546875" xml:space="preserve">AE</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon5" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(0, 100, 0)" y="458.3125" x="337.203125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="13.296875" y="482.8125" x="347.546875" xml:space="preserve">LT</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon6" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(85, 107, 47)" y="458.3125" x="365.203125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="17.84375" y="482.8125" x="373.28125" xml:space="preserve">GG</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g aria-owns="img7" data-stacking-context="true" data-z-index="auto" class="priority-icon" id="priority-icon1" data-tag="div">
+                                            <g mask="url(#mask-for-img71)" data-stacking-context="true" data-z-index="auto" id="img7" data-tag="img">
+                                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                                <g data-stacking-layer="nonPositionedFloats"/>
+                                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                                <mask id="mask-for-img71">
+                                                    <rect fill="#ffffff" y="465.3125" x="567.796875" height="16" width="21"/>
+                                                </mask>
+                                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/prio_urgent.png" height="16" width="21" y="465.3125" x="567.796875" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAQCAYAAAD52jQlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFuSURBVHgBlVTdUcJAGNwPx3dKoAR5VXSSDrACYwehAkMFQAXaASUkKOP4aAemA3026rkXLpc/cnPcTJjw3Zfd/XYvATyXCjD27R35gKlrbPGLTzXDAzyWOAFnCEj7CIVJo5yhwL28IcepStUVYlKmBvCL9xuzFeAcKdXPvUE57oQKU+6sTGlHZVN5JolCSPCctQmv7ZAdrfF74wqWBEu6pPRXE1ZKc5KGR+3gOCteylwfJUENNO6Oq26QtPovEVmlJfMP1YkF2eEMc8noY199K6Ty2T/ru15recFCyPLEP3emuGBxbdXosGpvYcdVBN6ToLYjaWDcCmVfUFmiN+QV77axqx4kFwZTqVLs32PZsC+CPhkF6+h62w1LYcOH44aqOiShiG8qc5xZZ1itPkdIB66hcQtELgW9kBp2VJ6mvK8+GK2wXOtISDmxpiP+xAZQpxr6ApaKMuTsj7QQU9IkweG15NE55dM2pLo8glz/uUS+A8Zv+rIAAAAASUVORK5CYII=" id="img7-image"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g aria-owns="board-column-headline2 inProgressColumnContainer" data-stacking-context="true" data-z-index="auto" class="board-column" id="board-column2" data-tag="div">
+                        <g aria-owns="add-a-card-btn2" data-stacking-context="true" data-z-index="auto" class="board-column-headline" id="board-column-headline2" data-tag="div">
+                            <text fill="rgb(66, 82, 110)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(66, 82, 110)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(66, 82, 110)">
+                                <tspan lengthAdjust="spacingAndGlyphs" textLength="110.03125" y="243.3125" x="705.328125" xml:space="preserve">In progress</tspan>
+                            </text>
+                            <g data-stacking-context="true" data-z-index="auto" class="add-a-card-btn" id="add-a-card-btn2" data-tag="div">
+                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                    <rect fill="rgba(0, 0, 0, 0)" y="219.3125" x="985.328125" height="24" width="24"/>
+                                    <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/add_btn_board.png" y="219.3125" x="985.328125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAZCAYAAAArK+5dAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJOSURBVHgB1VZBbxJREJ4Zika5YIwaTZpgYuOKlzVp0ZtrosCt+AuK/8DevAEnj+ovKP0H6w1PXW+meti9NHto4h48EOOBiy0t8sZ5u0ApJSxQeuiXLLw383a+fTNvZh7CGGRMK309mSwBYgamAAO4fEyu7zaCUR0OTwyzmMEkbyGCBfOAoa46WBsmGhAYufwGMX4USRoZWozsidiZyjCgKT/rEQm3FNJbf7exPSAwVl9aRImdSA+fDlNH1cBxWjADjGeye6WqCLih50rhC/9HwwkJHuUKP2WQEWFNhFU4B7K5YlU+syJxCQ6Pj56gsfaqTEhbogv2dr/chwXg8dPCjnjCYgWblCAKtwSMNVgQWKnQ/xKAdRIWHSA46LTtuBf1bvUTt+5KJ2VH9tkkfWr0JHDjg6pd2XPnRLiuHdlCTBNcMC6cYGmSMsyPMeUiOxQHxYlAn3eYh6CffGcwFAcCpf19A+YhkKP7hlFZA7u9LGXg7RMZOZNMYDZXYD2QJEOIwTxrL/8pInFomBS6ycSulpiETwxMsxTZktK9hCTdSApT2MEA6pNe3PveqMMUaCf/lij8dvBIdeFzSAa9orcAIFIl/Aeq09V/1+oyDnSbNFbzFTgnsrl8RfcWbVPvONFs+u07yyueuKmMiNatew8yN2+veH+a+zN1NB3Du8sP34uNd3pOhK9//9oPTnryWrEsXvvQr66STLYovWmMM+NzWWv2+3kXcNPvxev0rWKkr84O/qqIyv63MbeKUaKkUmYXomYUb5eCg1TbHndR+A8gVd7Od6wdnQAAAABJRU5ErkJggg==" height="24" width="24" id="background-image3"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g aria-owns="taskCard31 taskCard34" data-stacking-context="true" data-z-index="auto" class="task-card-container" id="inProgressColumnContainer" data-tag="div">
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                <g aria-owns="category-user-story3 stateDropdownIcon31 stateDropdown31 task-headline2 task-comment2 subtask-counter-wrapper2 member-priority-wrapper2" data-stacking-context="true" data-z-index="1" class="task-card" id="taskCard31" data-tag="div">
+                                    <g data-stacking-layer="rootBackgroundAndBorders">
+                                        <rect ry="24" rx="24" fill="rgb(255, 255, 255)" y="267.3125" x="696.53125" height="249" width="321.59375"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="category-user-story task-category" id="category-user-story3" data-tag="div">
+                                        <g data-stacking-layer="rootBackgroundAndBorders">
+                                            <rect ry="10" rx="10" fill="rgb(0, 56, 255)" y="291.3125" x="720.53125" height="28" width="112.625"/>
+                                        </g>
+                                        <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="80.625" y="315.3125" x="736.53125" xml:space="preserve">User Story</tspan>
+                                        </text>
+                                    </g>
+                                    <g mask="url(#mask-for-stateDropdownIcon311)" aria-label="three dots" role="img" data-stacking-context="true" data-z-index="auto" class="change-state-icon" id="stateDropdownIcon31" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-stateDropdownIcon311">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/three_dots_icon.png" aria-label="three dots" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,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" id="stateDropdownIcon31-image"/>
+                                    </g>
+                                    <g aria-owns="state-dropdown-element5 state-dropdown-element6 state-dropdown-element7 state-dropdown-element8" data-stacking-context="true" data-z-index="auto" class="state-dropdown d-none" id="stateDropdown31" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element5" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element6" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element7" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element8" data-tag="div"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-headline" id="task-headline2" data-tag="div">
+                                        <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="165.484375" y="347.3125" x="720.53125" xml:space="preserve">Destroy the One Ring</tspan>
+                                        </text>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-comment" id="task-comment2" data-tag="div">
+                                        <text fill="rgb(168, 168, 168)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(168, 168, 168)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(168, 168, 168)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="259.578125" y="375.3125" x="720.53125" xml:space="preserve">Take the One Ring to Mount Doom </tspan>
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="108.59375" y="395.3125" x="720.53125" xml:space="preserve">and destroy it.</tspan>
+                                        </text>
+                                    </g>
+                                    <g aria-owns="subtask-progressbar2 subtask-counter2" data-stacking-context="true" data-z-index="auto" class="subtask-counter-wrapper" id="subtask-counter-wrapper2" data-tag="div">
+                                        <g aria-owns="subtask-bar-half2" data-stacking-context="true" data-z-index="auto" class="subtask-progressbar" id="subtask-progressbar2" data-tag="div">
+                                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                                <rect ry="4" rx="4" fill="rgb(244, 244, 244)" y="422.8125" x="720.53125" height="8" width="100"/>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="subtask-bar-half" id="subtask-bar-half2" data-tag="span">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="4" rx="4" fill="rgb(69, 137, 255)" y="422.8125" x="720.53125" height="8" width="100"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g data-stacking-context="true" data-z-index="auto" class="subtask-counter" id="subtask-counter2" data-tag="div">
+                                            <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                                <tspan lengthAdjust="spacingAndGlyphs" textLength="74.46875" y="434.3125" x="828.53125" xml:space="preserve">2/2 Subtasks</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g aria-owns="task-member2 priority-icon2" data-stacking-context="true" data-z-index="auto" class="member-priority-wrapper" id="member-priority-wrapper2" data-tag="div">
+                                        <g aria-owns="task-member-icon7 task-member-icon8" data-stacking-context="true" data-z-index="auto" class="task-member" id="task-member2" data-tag="div">
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon7" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(31, 61, 122)" y="458.3125" x="714.53125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="14.859375" y="482.8125" x="724.09375" xml:space="preserve">FB</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon8" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(75, 0, 130)" y="458.3125" x="742.53125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="16.578125" y="482.8125" x="751.234375" xml:space="preserve">SG</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g aria-owns="img8" data-stacking-context="true" data-z-index="auto" class="priority-icon" id="priority-icon2" data-tag="div">
+                                            <g mask="url(#mask-for-img81)" data-stacking-context="true" data-z-index="auto" id="img8" data-tag="img">
+                                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                                <g data-stacking-layer="nonPositionedFloats"/>
+                                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                                <mask id="mask-for-img81">
+                                                    <rect fill="#ffffff" y="465.3125" x="973.125" height="16" width="21"/>
+                                                </mask>
+                                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/prio_urgent.png" height="16" width="21" y="465.3125" x="973.125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAQCAYAAAD52jQlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFuSURBVHgBlVTdUcJAGNwPx3dKoAR5VXSSDrACYwehAkMFQAXaASUkKOP4aAemA3026rkXLpc/cnPcTJjw3Zfd/XYvATyXCjD27R35gKlrbPGLTzXDAzyWOAFnCEj7CIVJo5yhwL28IcepStUVYlKmBvCL9xuzFeAcKdXPvUE57oQKU+6sTGlHZVN5JolCSPCctQmv7ZAdrfF74wqWBEu6pPRXE1ZKc5KGR+3gOCteylwfJUENNO6Oq26QtPovEVmlJfMP1YkF2eEMc8noY199K6Ty2T/ru15recFCyPLEP3emuGBxbdXosGpvYcdVBN6ToLYjaWDcCmVfUFmiN+QV77axqx4kFwZTqVLs32PZsC+CPhkF6+h62w1LYcOH44aqOiShiG8qc5xZZ1itPkdIB66hcQtELgW9kBp2VJ6mvK8+GK2wXOtISDmxpiP+xAZQpxr6ApaKMuTsj7QQU9IkweG15NE55dM2pLo8glz/uUS+A8Zv+rIAAAAASUVORK5CYII=" id="img8-image"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g aria-owns="category-user-story4 stateDropdownIcon34 stateDropdown34 task-headline3 task-comment3 subtask-counter-wrapper3 member-priority-wrapper3" data-stacking-context="true" data-z-index="1" class="task-card" id="taskCard34" data-tag="div">
+                                    <g data-stacking-layer="rootBackgroundAndBorders">
+                                        <rect ry="24" rx="24" fill="rgb(255, 255, 255)" y="532.3125" x="696.53125" height="249" width="321.59375"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="category-user-story task-category" id="category-user-story4" data-tag="div">
+                                        <g data-stacking-layer="rootBackgroundAndBorders">
+                                            <rect ry="10" rx="10" fill="rgb(0, 56, 255)" y="556.3125" x="720.53125" height="28" width="112.625"/>
+                                        </g>
+                                        <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="80.625" y="580.3125" x="736.53125" xml:space="preserve">User Story</tspan>
+                                        </text>
+                                    </g>
+                                    <g mask="url(#mask-for-stateDropdownIcon341)" aria-label="three dots" role="img" data-stacking-context="true" data-z-index="auto" class="change-state-icon" id="stateDropdownIcon34" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-stateDropdownIcon341">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/three_dots_icon.png" aria-label="three dots" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,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" id="stateDropdownIcon34-image"/>
+                                    </g>
+                                    <g aria-owns="state-dropdown-element9 state-dropdown-element10 state-dropdown-element11 state-dropdown-element12" data-stacking-context="true" data-z-index="auto" class="state-dropdown d-none" id="stateDropdown34" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element9" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element10" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element11" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element12" data-tag="div"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-headline" id="task-headline3" data-tag="div">
+                                        <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="142.328125" y="612.3125" x="720.53125" xml:space="preserve">Convince the Ents</tspan>
+                                        </text>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-comment" id="task-comment3" data-tag="div">
+                                        <text fill="rgb(168, 168, 168)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(168, 168, 168)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(168, 168, 168)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="271.9375" y="640.3125" x="720.53125" xml:space="preserve">Convince Treebeard and the Ents to </tspan>
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="230.1875" y="660.3125" x="720.53125" xml:space="preserve">join the fight against Saruman.</tspan>
+                                        </text>
+                                    </g>
+                                    <g aria-owns="subtask-progressbar3 subtask-counter3" data-stacking-context="true" data-z-index="auto" class="subtask-counter-wrapper" id="subtask-counter-wrapper3" data-tag="div">
+                                        <g aria-owns="subtask-bar-half3" data-stacking-context="true" data-z-index="auto" class="subtask-progressbar" id="subtask-progressbar3" data-tag="div">
+                                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                                <rect ry="4" rx="4" fill="rgb(244, 244, 244)" y="687.8125" x="720.53125" height="8" width="100"/>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="subtask-bar-half" id="subtask-bar-half3" data-tag="span">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="4" rx="4" fill="rgb(69, 137, 255)" y="687.8125" x="720.53125" height="8" width="50"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g data-stacking-context="true" data-z-index="auto" class="subtask-counter" id="subtask-counter3" data-tag="div">
+                                            <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                                <tspan lengthAdjust="spacingAndGlyphs" textLength="72.78125" y="699.3125" x="828.53125" xml:space="preserve">1/2 Subtasks</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g aria-owns="task-member3 priority-icon3" data-stacking-context="true" data-z-index="auto" class="member-priority-wrapper" id="member-priority-wrapper3" data-tag="div">
+                                        <g aria-owns="task-member-icon9 task-member-icon10" data-stacking-context="true" data-z-index="auto" class="task-member" id="task-member3" data-tag="div">
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon9" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(106, 90, 205)" y="723.3125" x="714.53125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="18.484375" y="747.8125" x="722.28125" xml:space="preserve">MB</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon10" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(70, 130, 180)" y="723.3125" x="742.53125" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="15.328125" y="747.8125" x="751.859375" xml:space="preserve">PT</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g aria-owns="img9" data-stacking-context="true" data-z-index="auto" class="priority-icon" id="priority-icon3" data-tag="div">
+                                            <g mask="url(#mask-for-img91)" data-stacking-context="true" data-z-index="auto" id="img9" data-tag="img">
+                                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                                <g data-stacking-layer="nonPositionedFloats"/>
+                                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                                <mask id="mask-for-img91">
+                                                    <rect fill="#ffffff" y="738.3125" x="973.125" height="8" width="21"/>
+                                                </mask>
+                                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/prio_medium.png" height="8" width="21" y="738.3125" x="973.125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAICAYAAAAWX7TTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABdSURBVHgB1ZAxEYBADAQ3DAKQ8BKQhBTMMJQgARw8CsABNQ0hDEi45rdIUu1czgh8pIuVUHAzWwgTxo6ObO8McY8qqZMphu/9gZaKBg2H+RSyixMdS/0fWxSsSro+dfoVNo5ChrgAAAAASUVORK5CYII=" id="img9-image"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g aria-owns="board-column-headline3 awaitFeedbackColumnContainer" data-stacking-context="true" data-z-index="auto" class="board-column" id="board-column3" data-tag="div">
+                        <g aria-owns="add-a-card-btn3" data-stacking-context="true" data-z-index="auto" class="board-column-headline" id="board-column-headline3" data-tag="div">
+                            <text fill="rgb(66, 82, 110)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(66, 82, 110)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(66, 82, 110)">
+                                <tspan lengthAdjust="spacingAndGlyphs" textLength="151.6875" y="243.3125" x="1110.65625" xml:space="preserve">Await feedback</tspan>
+                            </text>
+                            <g data-stacking-context="true" data-z-index="auto" class="add-a-card-btn" id="add-a-card-btn3" data-tag="div">
+                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                    <rect fill="rgba(0, 0, 0, 0)" y="219.3125" x="1390.65625" height="24" width="24"/>
+                                    <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/add_btn_board.png" y="219.3125" x="1390.65625" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAZCAYAAAArK+5dAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJOSURBVHgB1VZBbxJREJ4Zika5YIwaTZpgYuOKlzVp0ZtrosCt+AuK/8DevAEnj+ovKP0H6w1PXW+meti9NHto4h48EOOBiy0t8sZ5u0ApJSxQeuiXLLw383a+fTNvZh7CGGRMK309mSwBYgamAAO4fEyu7zaCUR0OTwyzmMEkbyGCBfOAoa46WBsmGhAYufwGMX4USRoZWozsidiZyjCgKT/rEQm3FNJbf7exPSAwVl9aRImdSA+fDlNH1cBxWjADjGeye6WqCLih50rhC/9HwwkJHuUKP2WQEWFNhFU4B7K5YlU+syJxCQ6Pj56gsfaqTEhbogv2dr/chwXg8dPCjnjCYgWblCAKtwSMNVgQWKnQ/xKAdRIWHSA46LTtuBf1bvUTt+5KJ2VH9tkkfWr0JHDjg6pd2XPnRLiuHdlCTBNcMC6cYGmSMsyPMeUiOxQHxYlAn3eYh6CffGcwFAcCpf19A+YhkKP7hlFZA7u9LGXg7RMZOZNMYDZXYD2QJEOIwTxrL/8pInFomBS6ycSulpiETwxMsxTZktK9hCTdSApT2MEA6pNe3PveqMMUaCf/lij8dvBIdeFzSAa9orcAIFIl/Aeq09V/1+oyDnSbNFbzFTgnsrl8RfcWbVPvONFs+u07yyueuKmMiNatew8yN2+veH+a+zN1NB3Du8sP34uNd3pOhK9//9oPTnryWrEsXvvQr66STLYovWmMM+NzWWv2+3kXcNPvxev0rWKkr84O/qqIyv63MbeKUaKkUmYXomYUb5eCg1TbHndR+A8gVd7Od6wdnQAAAABJRU5ErkJggg==" height="24" width="24" id="background-image4"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g aria-owns="task-card-nothing-to-do1" data-stacking-context="true" data-z-index="auto" class="task-card-container" id="awaitFeedbackColumnContainer" data-tag="div">
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                <g data-stacking-context="true" data-z-index="1" class="task-card-nothing-to-do task-card" id="task-card-nothing-to-do1" data-tag="div">
+                                    <g data-stacking-layer="rootBackgroundAndBorders">
+                                        <rect ry="23" rx="23" stroke-dasharray="1" stroke-width="1px" stroke="rgb(168, 168, 168)" fill="rgb(231, 231, 231)" y="267.3125" x="1100.859375" height="46" width="323.59375"/>
+                                    </g>
+                                    <text fill="rgb(168, 168, 168)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(168, 168, 168)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(168, 168, 168)">
+                                        <tspan lengthAdjust="spacingAndGlyphs" textLength="110.125" y="300.3125" x="1207.59375" xml:space="preserve">No tasks to do</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g aria-owns="board-column-headline4 doneColumnContainer" data-stacking-context="true" data-z-index="auto" class="board-column" id="board-column4" data-tag="div">
+                        <g data-stacking-context="true" data-z-index="auto" class="board-column-headline" id="board-column-headline4" data-tag="div">
+                            <text fill="rgb(66, 82, 110)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(66, 82, 110)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="20px" font-family="Inter, sans-serif" color="rgb(66, 82, 110)">
+                                <tspan lengthAdjust="spacingAndGlyphs" textLength="51.21875" y="243.3125" x="1515.984375" xml:space="preserve">Done</tspan>
+                            </text>
+                        </g>
+                        <g aria-owns="taskCard33" data-stacking-context="true" data-z-index="auto" class="task-card-container" id="doneColumnContainer" data-tag="div">
+                            <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+                                <g aria-owns="category-user-story5 stateDropdownIcon33 stateDropdown33 task-headline4 task-comment4 subtask-counter-wrapper4 member-priority-wrapper4" data-stacking-context="true" data-z-index="1" class="task-card" id="taskCard33" data-tag="div">
+                                    <g data-stacking-layer="rootBackgroundAndBorders">
+                                        <rect ry="24" rx="24" fill="rgb(255, 255, 255)" y="267.3125" x="1507.1875" height="249" width="321.59375"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="category-user-story task-category" id="category-user-story5" data-tag="div">
+                                        <g data-stacking-layer="rootBackgroundAndBorders">
+                                            <rect ry="10" rx="10" fill="rgb(0, 56, 255)" y="291.3125" x="1531.1875" height="28" width="112.625"/>
+                                        </g>
+                                        <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="80.625" y="315.3125" x="1547.1875" xml:space="preserve">User Story</tspan>
+                                        </text>
+                                    </g>
+                                    <g mask="url(#mask-for-stateDropdownIcon331)" aria-label="three dots" role="img" data-stacking-context="true" data-z-index="auto" class="change-state-icon" id="stateDropdownIcon33" data-tag="img">
+                                        <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                        <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                        <g data-stacking-layer="nonPositionedFloats"/>
+                                        <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                        <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                        <mask id="mask-for-stateDropdownIcon331">
+                                            <rect fill="#ffffff" y="0" x="0" height="0" width="0"/>
+                                        </mask>
+                                        <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/three_dots_icon.png" aria-label="three dots" height="0" width="0" y="0" x="0" xlink:href="data:image/png;base64,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" id="stateDropdownIcon33-image"/>
+                                    </g>
+                                    <g aria-owns="state-dropdown-element13 state-dropdown-element14 state-dropdown-element15 state-dropdown-element16" data-stacking-context="true" data-z-index="auto" class="state-dropdown d-none" id="stateDropdown33" data-tag="div">
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element13" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element14" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element15" data-tag="div"/>
+                                        <g data-stacking-context="true" data-z-index="auto" class="state-dropdown-element" id="state-dropdown-element16" data-tag="div"/>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-headline" id="task-headline4" data-tag="div">
+                                        <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="700" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="194.53125" y="347.3125" x="1531.1875" xml:space="preserve">Rescue Merry and Pippin</tspan>
+                                        </text>
+                                    </g>
+                                    <g data-stacking-context="true" data-z-index="auto" class="task-comment" id="task-comment4" data-tag="div">
+                                        <text fill="rgb(168, 168, 168)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(168, 168, 168)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="16px" font-family="Inter, sans-serif" color="rgb(168, 168, 168)">
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="265.640625" y="375.3125" x="1531.1875" xml:space="preserve">- Find and rescue Merry and Pippin </tspan>
+                                            <tspan lengthAdjust="spacingAndGlyphs" textLength="137.828125" y="395.3125" x="1531.1875" xml:space="preserve">from the Uruk-hai.</tspan>
+                                        </text>
+                                    </g>
+                                    <g aria-owns="subtask-progressbar4 subtask-counter4" data-stacking-context="true" data-z-index="auto" class="subtask-counter-wrapper" id="subtask-counter-wrapper4" data-tag="div">
+                                        <g aria-owns="subtask-bar-half4" data-stacking-context="true" data-z-index="auto" class="subtask-progressbar" id="subtask-progressbar4" data-tag="div">
+                                            <g data-stacking-layer="rootBackgroundAndBorders">
+                                                <rect ry="4" rx="4" fill="rgb(244, 244, 244)" y="422.8125" x="1531.1875" height="8" width="100"/>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="subtask-bar-half" id="subtask-bar-half4" data-tag="span">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="4" rx="4" fill="rgb(69, 137, 255)" y="422.8125" x="1531.1875" height="8" width="100"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g data-stacking-context="true" data-z-index="auto" class="subtask-counter" id="subtask-counter4" data-tag="div">
+                                            <text fill="rgb(0, 0, 0)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(0, 0, 0)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(0, 0, 0)">
+                                                <tspan lengthAdjust="spacingAndGlyphs" textLength="74.46875" y="434.3125" x="1639.1875" xml:space="preserve">2/2 Subtasks</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g aria-owns="task-member4 priority-icon4" data-stacking-context="true" data-z-index="auto" class="member-priority-wrapper" id="member-priority-wrapper4" data-tag="div">
+                                        <g aria-owns="task-member-icon11 task-member-icon12 task-member-icon13" data-stacking-context="true" data-z-index="auto" class="task-member" id="task-member4" data-tag="div">
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon11" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(139, 0, 0)" y="458.3125" x="1525.1875" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="15.296875" y="482.8125" x="1534.53125" xml:space="preserve">AE</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon12" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(0, 100, 0)" y="458.3125" x="1553.1875" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="13.296875" y="482.8125" x="1563.53125" xml:space="preserve">LT</tspan>
+                                                </text>
+                                            </g>
+                                            <g data-stacking-context="true" data-z-index="auto" class="task-member-icon" id="task-member-icon13" data-tag="div">
+                                                <g data-stacking-layer="rootBackgroundAndBorders">
+                                                    <rect ry="17" rx="17" stroke-width="1px" stroke="rgb(255, 255, 255)" fill="rgb(85, 107, 47)" y="458.3125" x="1581.1875" height="34" width="34"/>
+                                                </g>
+                                                <text fill="rgb(255, 255, 255)" writing-mode="horizontal-tb" word-spacing="0px" text-rendering="auto" text-anchor="start" text-decoration="none solid rgb(255, 255, 255)" letter-spacing="normal" direction="ltr" font-weight="400" font-variant="normal" font-style="normal" font-stretch="100%" font-size-adjust="none" font-size="12px" font-family="Inter, sans-serif" color="rgb(255, 255, 255)">
+                                                    <tspan lengthAdjust="spacingAndGlyphs" textLength="17.84375" y="482.8125" x="1589.265625" xml:space="preserve">GG</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g aria-owns="img10" data-stacking-context="true" data-z-index="auto" class="priority-icon" id="priority-icon4" data-tag="div">
+                                            <g mask="url(#mask-for-img101)" data-stacking-context="true" data-z-index="auto" id="img10" data-tag="img">
+                                                <g data-stacking-layer="rootBackgroundAndBorders"/>
+                                                <g data-stacking-layer="childStackingContextsWithNegativeStackLevels"/>
+                                                <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants"/>
+                                                <g data-stacking-layer="nonPositionedFloats"/>
+                                                <g data-stacking-layer="inFlowInlineLevelNonPositionedDescendants"/>
+                                                <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero"/>
+                                                <g data-stacking-layer="childStackingContextsWithPositiveStackLevels"/>
+                                                <mask id="mask-for-img101">
+                                                    <rect fill="#ffffff" y="473.3125" x="1783.78125" height="8" width="21"/>
+                                                </mask>
+                                                <image data-src="https://alexander-haehnlein.developerakademie.net/join_ftp/assets/img/prio_medium.png" height="8" width="21" y="473.3125" x="1783.78125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAICAYAAAAWX7TTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABdSURBVHgB1ZAxEYBADAQ3DAKQ8BKQhBTMMJQgARw8CsABNQ0hDEi45rdIUu1czgh8pIuVUHAzWwgTxo6ObO8McY8qqZMphu/9gZaKBg2H+RSyixMdS/0fWxSsSro+dfoVNo5ChrgAAAAASUVORK5CYII=" id="img10-image"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g data-stacking-context="true" data-z-index="auto" id="deepl-input-controller1" data-tag="deepl-input-controller"/>
+        </g>
+    </g>
+</svg>

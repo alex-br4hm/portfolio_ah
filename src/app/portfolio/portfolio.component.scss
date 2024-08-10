@@ -58,8 +58,9 @@
 
 .image-container {
   position: relative;
+  display: flex;
+  align-items: center;
   width: 100%;
-  height: 50vh;
 }
 
 .image-container::before,
@@ -135,6 +136,61 @@ img {
     &:hover {
       padding: 1rem 3.2rem;
     }
+  }
+}
+
+@media (max-width: 1500px) {
+  .project-infos {
+    width: 40%;
+  }
+}
+
+@media (max-width: 1280px) {
+  .single-project {
+    align-items: center;
+  }
+
+  .link-btns {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 1024px) {
+  .single-project {
+    flex-direction: column;
+    filter: grayscale(0);
+    &:nth-child(even) {
+      flex-direction: column;
+    }
+
+    padding: 2%;
+    border: 3px solid transparent;
+    &:hover {
+      border: 3px solid var(--font-color);
+      .image-container::before {
+        display: none;
+      }
+      .right-side-project::before {
+        display: none;
+      }
+    }
+
+    .link-btns {
+      justify-content: center;
+
+      a {
+        min-width: 40%;
+      }
+    }
+
+    .image-container::before,
+    .right-side-project::before {
+      display: none;
+    }
+  }
+  .project-infos {
+    width: 100%;
+    padding-left: 0;
   }
 }
 

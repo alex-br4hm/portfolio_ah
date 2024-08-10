@@ -197,10 +197,56 @@ input[type="submit"]:hover {
   margin-top: 8px;
 }
 
+@media (max-width: 1180px) {
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
+    width: 80%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .arrow-up-container {
+    width: 10vw;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    .arrow-up {
+      width: 8vw;
+    }
+  }
+}
+
+@media (max-width: 880px) {
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
+    width: 100%;
+  }
+}
+
 @media (max-width: 720px) {
   .checkbox-wrapper {
     label {
       width: 90%;
     }
+  }
+}
+
+@media (max-width: 640px) {
+  .arrow-up-container {
+    display: none;
+  }
+}
+
+@media (max-width: 550px) {
+  .contact-form {
+    width: 100%;
+  }
+
+  input[type="submit"] {
+    padding: 4% 6%;
   }
 }
