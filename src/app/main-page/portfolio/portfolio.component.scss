@@ -27,10 +27,15 @@
 
 .single-project {
   display: flex;
-  align-items: start;
+  align-items: center;
+
   padding: 3% 0;
   transition: 150ms ease-in-out;
   filter: grayscale(50%);
+
+  .project-infos {
+    width: 30%;
+  }
 
   &:nth-child(even) {
     flex-direction: row-reverse;
@@ -47,8 +52,8 @@
       opacity: 1;
     }
     .image-container::before {
-      opacity: 1;
-      transform: translate(5%, 5%);
+      opacity: 0.5;
+      transform: translate(3%, 8%);
     }
     .right-side-project::before {
       transform: translate(-5%, 5%);
@@ -126,15 +131,43 @@ img {
   a {
     text-decoration: none;
     font-weight: bold;
-    font-size: 20px;
+    flex: 1;
     border: 3px solid var(--font-color);
     padding: 1rem 3rem;
     transition: var(--transition);
     display: flex;
     justify-content: center;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: whitesmoke;
+      z-index: 0; // Hintergrund unter dem Text
+      transition: transform 0.5s ease; // Übergang für das Füllen
+      transform: scaleX(0); // Startzustand
+      transform-origin: left; // Startet von links
+    }
+
+    &:hover::before {
+      transform: scaleX(1); // Skaliert den Hintergrund auf 100%
+    }
 
     &:hover {
-      padding: 1rem 3.2rem;
+      span {
+        color: var(--bg-color); // Farbe des Textes beim Hover
+      }
+    }
+
+    span {
+      position: relative;
+      z-index: 1; // Sicherstellen, dass der Text über dem Hintergrund liegt
     }
   }
 }
@@ -158,6 +191,10 @@ img {
 @media (max-width: 1024px) {
   .single-project {
     flex-direction: column;
+
+    .project-infos {
+      width: 100%;
+    }
     filter: grayscale(0);
     &:nth-child(even) {
       flex-direction: column;

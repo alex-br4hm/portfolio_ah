@@ -23,7 +23,7 @@ export class PortfolioComponent {
         'Ein Task Manager inspiriert vom Kanban-System. Erstelle und organisiere Aufgaben mithilfe von Drag-and-Drop-Funktionen, weise Benutzer und Kategorien zu.',
 
       technologies: ['JavaScript', 'HTML', 'CSS', 'Firebase'],
-      gitLink: '',
+      gitLink: 'https://github.com/alex-br4hm/Join',
       demoLink: 'https://join.haehnlein-alexander.org/',
     },
     {
@@ -41,11 +41,11 @@ export class PortfolioComponent {
       imgSrc: './assets/img/pokedex.png',
       title: 'Pokedex',
       description:
-        'A simple Jump-and-Run game based on an object-oriented approach. Help Sharkie to find coins and poison bottles to fight against the killer whale.',
+        'A library that provides and catalogues pokemon information. Based on the PokéAPI.',
       description_de:
-        'Ein einfaches Jump-and-Run-Spiel, das auf einem objektorientierten Ansatz basiert. Hilf Sharkie, Münzen und Giftflaschen zu finden, um gegen den Killerwal zu kämpfen.',
+        'Eine Bibliothek, die Informationen über Pokémon bereitstellt und katalogisiert. Basierend auf der PokéAPI.',
       technologies: ['JavaScript', 'HTML', 'CSS'],
-      gitLink: 'https://github.com/alex-br4hm/Sharkie',
+      gitLink: 'https://github.com/alex-br4hm/Pokedex',
       demoLink: 'https://pokedex.haehnlein-alexander.org/',
     },
   ];

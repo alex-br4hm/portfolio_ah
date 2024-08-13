@@ -12,6 +12,7 @@ import { ReferencesComponent } from './references/references.component';
 import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from '../shared/footer/footer.component';
 import { LegalNoticeComponent } from '../legal-notice/legal-notice.component';
+import { HeroComponent } from './hero/hero.component';
 
 @Component({
   selector: 'app-main-page',
@@ -29,6 +30,7 @@ import { LegalNoticeComponent } from '../legal-notice/legal-notice.component';
     ContactComponent,
     FooterComponent,
     LegalNoticeComponent,
+    HeroComponent,
   ],
   templateUrl: './main-page.component.html',
   styleUrl: './main-page.component.scss',
