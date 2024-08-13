@@ -218,7 +218,6 @@ img {
   transition: all 200ms ease-in-out;
   text-align: center;
   padding: 0 3vw 1vh 3vw;
-
   transition: all 250ms ease-in-out;
   span {
     font-size: clamp(3rem, 3vw, 20rem);
@@ -303,5 +302,13 @@ img {
   0%,
   100% {
     color: var(--font-color);
+  }
+}
+
+@media (max-width: 840px) {
+  .say-hi-link {
+    span {
+      font-size: clamp(2rem, 2vw, 3rem);
+    }
   }
 }

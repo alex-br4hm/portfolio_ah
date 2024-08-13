@@ -6,10 +6,17 @@
 
   <div class="social-media-wrapper">
     <div class="social-media-btns">
-      <img src="./assets/img/github-icon.svg" alt="" />
-      <img src="./assets/img/email-icon.svg" alt="" />
-      <img src="./assets/img/linkedin-icon.svg" alt="" />
+      <a href="https://github.com/alex-br4hm" target="_blank"
+        ><img src="./assets/img/github-icon.svg" alt=""
+      /></a>
+      <a href="#contact"> <img src="./assets/img/email-icon.svg" alt="" /></a>
+      <a
+        href="https://www.linkedin.com/in/alexander-h%C3%A4hnlein-3a70b8259/"
+        target="_blank"
+      >
+        <img src="./assets/img/linkedin-icon.svg" alt=""
+      /></a>
     </div>
-    <a href="">Legal notice</a>
+    <a [routerLink]="'/legal-notice'" class="legal-notice-link">Legal notice</a>
   </div>
 </footer>

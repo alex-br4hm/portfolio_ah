@@ -21,7 +21,7 @@ footer {
   gap: 32px;
   align-items: end;
 
-  a {
+  .legal-notice-link {
     text-decoration: none;
     transition: var(--transition);
     transform: translateX(-10px);

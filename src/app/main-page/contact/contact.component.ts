@@ -2,7 +2,7 @@ import { NgClass } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Component, inject } from '@angular/core';
 import { FormsModule, NgForm, NgModel } from '@angular/forms';
-import { TranslationService } from '../translation.service';
+import { TranslationService } from '../../translation.service';
 import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
