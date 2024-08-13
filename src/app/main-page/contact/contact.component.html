@@ -96,9 +96,11 @@
           [ngClass]="{ 'checkbox-checked': isCheckbox }"
           >&nbsp;{{ "contact-privacy-policy_1" | translate }}
 
-          <a href="" style="color: var(--accent-color); font-size: 16px">{{
-            "contact-privacy-policy_2" | translate
-          }}</a>
+          <a
+            [routerLink]="'/legal-notice'"
+            style="color: var(--accent-color); font-size: 16px"
+            >{{ "contact-privacy-policy_2" | translate }}</a
+          >
           {{ "contact-privacy-policy_3" | translate }}</label
         >
       </div>
