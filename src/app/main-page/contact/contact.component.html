@@ -94,29 +94,51 @@
         <label
           for="privacyPolicyCheck"
           [ngClass]="{ 'checkbox-checked': isCheckbox }"
-          >&nbsp;{{ "contact-privacy-policy_1" | translate }}
+        >
+          @if (isCheckbox) {
+          <img src="./assets/img/checkbox-checked-icon.svg" alt="" />
+          } @else if (!isCheckbox) {
+          <img src="./assets/img/checkbox-icon.svg" alt="" />
+          } &nbsp;
+
+          <span>{{ "contact-privacy-policy_1" | translate }}</span>
 
           <a
             [routerLink]="'/legal-notice'"
             style="color: var(--accent-color)"
             >{{ "contact-privacy-policy_2" | translate }}</a
           >
-          {{ "contact-privacy-policy_3" | translate }}</label
+
+          <span>{{ "contact-privacy-policy_3" | translate }}</span></label
         >
       </div>
       @if (formSubmitted && !isCheckbox) {
       <div class="contact-input-error input-error-privacy-policy">
         <span class="">{{ "contact-error-checkbox" | translate }}</span>
       </div>
-      }
+      } @if (translate.actualLang == 'en') {
       <input
         type="submit"
         [ngClass]="{ 'submit-btn-not-validated': !isValid }"
         value="Send message"
       />
+      } @else if (translate.actualLang == 'de') {
+      <input
+        type="submit"
+        [ngClass]="{ 'submit-btn-not-validated': !isValid }"
+        value="Absenden"
+      />
+      }
     </form>
   </div>
   <a href="#" class="arrow-up-container"
     ><img src="./assets/img/small-arrow-down.svg" class="icon arrow-up" alt=""
   /></a>
+  @if (formSubmitted && isValid) {
+  <div class="contact-succes">
+    <div class="message">
+      {{ "contact-succes-message" | translate }}
+    </div>
+  </div>
+  }
 </section>

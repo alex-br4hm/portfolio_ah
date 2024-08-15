@@ -24,10 +24,8 @@
 
  "contact-privacy-policy_1": "I've read the",
  "contact-privacy-policy_2": "privacy policy",
- "contact-privacy-policy_3": "and agree to the processing of my data as outlined."
+ "contact-privacy-policy_3": "and agree to the processing of my data as outlined.",
 
-
+"contact-succes-message": "Message sent successfully."
  
-
-  
 }

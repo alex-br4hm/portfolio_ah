@@ -5,6 +5,7 @@ import { FormsModule, NgForm, NgModel } from '@angular/forms';
 import { TranslationService } from '../../translation.service';
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterLink } from '@angular/router';
+import { timeout } from 'rxjs';
 
 @Component({
   selector: 'app-contact',
@@ -76,16 +77,11 @@ export class ContactComponent {
       this.http
         .post(this.post.endPoint, this.post.body(this.contactData))
         .subscribe({
-          next: (response) => {
-            ngForm.resetForm();
-          },
+          next: (response) => {},
           error: (error) => {
             console.error(error);
           },
-          complete: () => {
-            this.formSubmitted = false;
-            this.isCheckbox = false;
-          },
+          complete: () => {},
         });
     } else if (
       ngForm.submitted &&
@@ -94,7 +90,15 @@ export class ContactComponent {
       this.isCheckbox
     ) {
       this.formSubmitted = false;
-      ngForm.resetForm();
+    }
+
+    if (this.formSubmitted && this.isValid) {
+      setTimeout(() => {
+        ngForm.resetForm();
+        this.formSubmitted = false;
+        this.isValid = false;
+        this.isCheckbox = false;
+      }, 3000);
     }
   }
 }
