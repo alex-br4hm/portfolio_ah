@@ -30,7 +30,7 @@
 
 h1 {
   font-family: var(--font_2);
-  font-size: clamp(3rem, 6vw + 1rem, 10vw);
+  font-size: clamp(3rem, 6vw + 1rem, 7vw);
   line-height: 5.5vw;
   margin-top: 20vh;
   margin-bottom: 1rem;
@@ -70,6 +70,16 @@ h1 {
     &:hover {
       letter-spacing: 1.1px;
     }
+  }
+}
+
+@media (min-width: 2500px) {
+  h1 {
+    font-size: clamp(3rem, 6vw + 1rem, 10%);
+    line-height: 90%;
+  }
+  .subline-name {
+    font-size: 100% !important;
   }
 }
 

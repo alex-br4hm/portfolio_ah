@@ -12,6 +12,12 @@
   right: 10%;
 }
 
+@media (min-width: 2500px) {
+  .arrow-up-container {
+    right: 0%;
+  }
+}
+
 .arrow-up {
   rotate: 180deg;
   width: 5vw;
@@ -55,7 +61,7 @@ h2 {
   align-items: center;
 
   h3 {
-    font-size: 32px;
+    font-size: 2em;
     color: var(--accent-color);
     margin-bottom: 0;
     text-align: center;
@@ -93,7 +99,7 @@ textarea {
   margin-bottom: 16px;
   resize: vertical;
   background-color: transparent !important;
-  font-size: 18px;
+  // font-size: 18px;
 }
 
 input[type="text"]:focus,
@@ -120,7 +126,7 @@ input[type="submit"] {
   background-color: transparent;
   color: white;
   padding: 2% 5%;
-  font-size: 24px;
+  // font-size: 24px;
   border: 3px solid rgba(187, 187, 187, 1);
   cursor: pointer;
   margin-top: 5vh;
@@ -160,12 +166,12 @@ input[type="submit"]:hover {
 }
 [type="checkbox"] + label {
   position: absolute;
-  font-size: 16px;
+  // font-size: 16px;
   padding-left: 4px;
 }
 [type="checkbox"] + label::before {
-  width: 15px;
-  height: 15px;
+  width: 1em;
+  height: 1em;
   border-radius: 1px;
   border: 2px solid var(--font-color);
   background-color: var(--font-color);
@@ -189,12 +195,18 @@ input[type="submit"]:hover {
 
   span {
     color: red;
-    font-size: 16px;
+    // font-size: 16px;
   }
 }
 
 .input-error-privacy-policy {
   margin-top: 8px;
+}
+
+input,
+textarea,
+span {
+  font-size: 1em;
 }
 
 @media (max-width: 1180px) {

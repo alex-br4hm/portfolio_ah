@@ -7,6 +7,7 @@
   position: fixed;
   top: 0;
   z-index: 10;
+  max-width: 1920px;
 }
 
 .language {
@@ -44,9 +45,8 @@ img {
   user-select: none;
   cursor: pointer;
   position: absolute;
-  right: 10vw;
+  right: 10%;
   padding: 1%;
-
   transition-duration: 150ms;
 
   &:hover {
@@ -78,7 +78,7 @@ img {
 }
 
 .burger-menu-crossed {
-  right: 12vw;
+  right: 12%;
   padding: 1%;
 
   .line-crossed {

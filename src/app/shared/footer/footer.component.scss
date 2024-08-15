@@ -11,7 +11,7 @@ footer {
     margin-bottom: 16px;
   }
   div {
-    font-size: 20px;
+    font-size: 0.8em;
   }
 }
 
@@ -21,13 +21,17 @@ footer {
   gap: 32px;
   align-items: end;
 
+  img {
+    width: 2em;
+  }
+
   .legal-notice-link {
     text-decoration: none;
     transition: var(--transition);
     transform: translateX(-10px);
     opacity: 0.8;
     position: relative;
-    font-size: 16px;
+    font-size: 0.7em;
     &::after {
       content: "";
       position: absolute;
@@ -39,7 +43,7 @@ footer {
       background-color: var(--accent-color); /* Farbe des Borders */
     }
     &:hover {
-      font-size: 17px;
+      font-size: 0.72em;
       transform: translateX(0px);
       opacity: 1;
       &::after {

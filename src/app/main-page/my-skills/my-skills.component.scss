@@ -1,16 +1,42 @@
-.headline-wrapper {
-  display: flex;
-  justify-content: center;
+section {
+  margin-bottom: 15vh;
+}
+
+section::before {
+  content: "";
+  display: block;
+  height: 100px; /* Offset-Höhe */
+  margin-top: -100px; /* Verschiebung nach oben */
+  visibility: hidden;
+}
+
+// .headline-wrapper {
+//   display: flex;
+//   justify-content: center;
+//   position: absolute;
+//   top: -30px;
+
+//   h2 {
+//     width: fit-content;
+//     padding: 0 3%;
+//     margin: 0;
+//     white-space: nowrap;
+//     text-align: center;
+//     background-color: var(--bg-color);
+//   }
+// }
+
+.headline {
   position: absolute;
-  top: -6.5vh;
-  h2 {
-    width: fit-content;
-    padding: 0 3%;
-    margin: 0;
-    white-space: nowrap;
-    text-align: center;
-    background-color: var(--bg-color);
-  }
+  top: -1.5em; /* Hängt davon ab, wie viel die Überschrift über die Border hinaus ragen soll */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(
+    --bg-color
+  ); /* Hintergrundfarbe, die die Border verdeckt */
+  padding: 0 10px; /* Platz um den Text, damit er nicht an den Rändern klebt */
+  z-index: 1; /* Stellt sicher, dass die Überschrift über anderen Elementen liegt */
+  white-space: nowrap;
 }
 
 img {
@@ -19,7 +45,7 @@ img {
 
 .skills-wrapper {
   border: 5px solid var(--font-color);
-
+  margin-top: 3em;
   padding-bottom: 5%;
   display: flex;
   position: relative;
@@ -88,7 +114,7 @@ img {
 
   a {
     color: var(--accent-color);
-    transition: var(--transition);
+    transition: all 150ms ease-in-out;
     &:hover {
       filter: brightness(125%);
     }
