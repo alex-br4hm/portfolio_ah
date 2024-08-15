@@ -1,16 +1,21 @@
 .imprint-wrapper {
   padding-top: 5vh;
+  width: 100%;
 }
 
 .legal-notice-wrapper,
 .imprint-wrapper {
-  width: 50vw;
-  margin-left: 5vw;
   margin-top: 10vh;
   padding-bottom: 5vh;
 }
 
+p {
+  padding-left: 5%;
+  width: 50%;
+}
+
 h1 {
+  padding-left: 5%;
   font-size: 5vw;
 }
 
