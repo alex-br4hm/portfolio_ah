@@ -33,7 +33,6 @@
   display: flex;
   justify-content: center;
   gap: 1rem;
-  transition: all 200ms ease-in-out;
   height: auto;
   overflow: hidden;
   transition: var(--transition);
@@ -64,7 +63,7 @@
     }
 
     &:hover {
-      width: 30%;
+
 
       .reference-text {
         opacity: 1;
@@ -73,7 +72,6 @@
   }
 
   .hovered-class {
-    width: 30%;
     height: 100%;
     .reference-text {
       opacity: 1;
