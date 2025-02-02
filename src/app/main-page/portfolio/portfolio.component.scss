@@ -87,11 +87,11 @@
 }
 
 img {
-  width: 100%; /* Macht das Bild 100% der Breite des Containers */
+  width: 45vw; /* Macht das Bild 100% der Breite des Containers */
   height: 100%;
   object-fit: cover;
   position: relative;
-  z-index: 10; /* Positioniert das Bild über dem Pseudo-Element */
+  z-index: 10;
 }
 
 .project-infos {
@@ -219,6 +219,10 @@ img {
 
     .image-container {
       width: 100%;
+
+      img {
+        width: 100%;
+      }
     }
 
     .image-container::before,
