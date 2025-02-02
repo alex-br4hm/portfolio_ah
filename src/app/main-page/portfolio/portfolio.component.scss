@@ -112,6 +112,7 @@ img {
 
   .technologies {
     display: flex;
+    flex-wrap: wrap;
     gap: 0.5rem;
     span {
       color: var(--accent-color);

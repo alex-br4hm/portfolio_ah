@@ -36,7 +36,7 @@ body {
 body::-webkit-scrollbar {
   width: 0.3em;
   border-radius: 25px;
-  background-color: black;
+  background-color: var(--bg-color);
 }
 
 body::-webkit-scrollbar-thumb {
@@ -86,14 +86,6 @@ h2 {
 
 section {
   position: relative;
-}
-
-section::before {
-  content: "";
-  display: block;
-  height: 100px; /* Höhe des Offsets */
-  margin-top: -100px; /* Gleiche Höhe wie das Offset */
-  visibility: hidden;
 }
 
 // ######## Import Fonts ######### //

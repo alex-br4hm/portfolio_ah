@@ -15,6 +15,15 @@ export class PortfolioComponent {
 
   projects = [
     {
+      imgSrc: './assets/img/pokedex2.png',
+      title: 'Pokedex',
+      description: 'A fast and easy-to-use Pokédex. Search by name, filter by type, generation, weight & height.',
+      description_de: 'Ein schneller Pokédex. Suche nach Namen, filtere nach Typ, Generation, Gewicht & Größe.',
+      technologies: ['Angular', 'TypeScript', 'Angular Material', 'Firebase', 'HTML', 'SCSS'],
+      gitLink: 'https://github.com/alex-br4hm/pokedex-angular',
+      demoLink: 'https://pokedex2.haehnlein-alexander.org/',
+    },
+    {
       imgSrc: './assets/img/join.svg',
       title: 'Join',
       description:
@@ -36,17 +45,6 @@ export class PortfolioComponent {
       technologies: ['JavaScript', 'HTML', 'CSS'],
       gitLink: 'https://github.com/alex-br4hm/Sharkie',
       demoLink: 'https://sharkie.haehnlein-alexander.org/',
-    },
-    {
-      imgSrc: './assets/img/pokedex.png',
-      title: 'Pokedex',
-      description:
-        'A library that provides and catalogues pokemon information. Based on the PokéAPI.',
-      description_de:
-        'Eine Bibliothek, die Informationen über Pokémon bereitstellt und katalogisiert. Basierend auf der PokéAPI.',
-      technologies: ['JavaScript', 'HTML', 'CSS'],
-      gitLink: 'https://github.com/alex-br4hm/Pokedex',
-      demoLink: 'https://pokedex.haehnlein-alexander.org/',
     },
   ];
 
