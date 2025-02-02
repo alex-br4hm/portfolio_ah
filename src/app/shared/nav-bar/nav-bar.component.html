@@ -14,6 +14,14 @@
     >
   </div>
 
+  @if (!isOpened) {
+    <div class="nav-links-wrapper-unfolded">
+      <a href="#aboutMe">About me</a>
+      <a href="#skills">Skills</a>
+      <a href="#portfolio">Portfolio</a>
+    </div>
+  }
+
   <div
     class="burger-menu"
     [ngClass]="{ 'burger-menu-crossed': isOpened }"
