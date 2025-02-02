@@ -33,12 +33,8 @@
   transition: 150ms ease-in-out;
   filter: grayscale(50%);
 
-  .project-infos {
-    width: 30%;
-  }
-
   &:nth-child(even) {
-    flex-direction: row-reverse;
+
     .project-infos {
       padding-left: 0;
       transition: 150ms ease-in-out;
@@ -65,7 +61,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  width: 100%;
+  width: 45vw;
 }
 
 .image-container::before,
@@ -78,7 +74,7 @@
   bottom: -5px;
   transform: translate(10%, 10%);
   opacity: 0;
-  width: 100%;
+  width: 45vw;
   height: 100%;
   border: 5px solid white; /* Rahmen um das Bild */
   box-sizing: border-box; /* Stellt sicher, dass der Rahmen zur Gesamtgröße des Containers zählt */
@@ -102,7 +98,7 @@ img {
   padding: 3% 0;
   transition: var(--transition);
   opacity: 1;
-  margin: 0 8%;
+  margin-left: 5%;
   // filter: grayscale(0%) !important;
   h2 {
     font-size: clamp(2rem, 2vw + 1rem, 4vw);
@@ -219,6 +215,10 @@ img {
       a {
         min-width: 40%;
       }
+    }
+
+    .image-container {
+      width: 100%;
     }
 
     .image-container::before,

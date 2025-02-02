@@ -16,7 +16,6 @@
     <div class="single-project">
       <div
         class="image-container"
-        [ngClass]="{ 'right-side-project': isEven($index) }"
       >
         <img
           src="{{ project.imgSrc }}"
@@ -42,10 +41,12 @@
           }
         </p>
         <div class="link-btns">
-          <a href="{{ project.demoLink }}" target="_blank"><span>Demo</span></a>
-          <a href="{{ project.gitLink }}" target="_blank"
-            ><span>Github</span></a
-          >
+          <a href="{{ project.demoLink }}" target="_blank">
+            <span>Demo</span>
+          </a>
+          <a href="{{ project.gitLink }}" target="_blank">
+            <span>Github</span>
+          </a>
         </div>
       </div>
     </div>
